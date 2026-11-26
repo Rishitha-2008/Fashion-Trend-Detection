@@ -1,0 +1,151 @@
+image_id,path,clothing_type,clothing_confidence,clothing_top_k,pattern,pattern_confidence,primary_colour,colours,needs_review,status,error,processed_at
+coat_0001,crops\coat_0001.jpg,blouse,0.29,blouse:0.29;jumpsuit:0.2516;top:0.1665,geometric,0.403,black,black:0.306;silver:0.261;denim blue:0.236;charcoal:0.197,True,ok,,2026-11-26T16:00:41
+coat_0002,crops\coat_0002.jpg,coat,0.393,coat:0.393;jacket:0.0953;leggings:0.0863,geometric,0.563,silver,silver:0.599;grey:0.304;charcoal:0.097,False,ok,,2026-11-26T16:00:41
+coat_0003,crops\coat_0003.jpg,blazer,0.3107,blazer:0.3107;coat:0.1814;jacket:0.1587,solid,0.2641,charcoal,charcoal:0.306;black:0.275;tan:0.24;silver:0.179,True,ok,,2026-11-26T16:00:41
+coat_0004,crops\coat_0004.jpg,coat,0.8259,coat:0.8259;jacket:0.0738;jumpsuit:0.0487,solid,0.2563,black,black:0.453;charcoal:0.349;silver:0.117;grey:0.081,False,ok,,2026-11-26T16:00:41
+coat_0005,crops\coat_0005.jpg,blazer,0.4546,blazer:0.4546;coat:0.1448;skirt:0.1371,graphic print,0.1855,brown,brown:0.519;black:0.283;red:0.111;tan:0.087,False,ok,,2026-11-26T16:00:41
+coat_0006,crops\coat_0006.jpg,coat,0.6285,coat:0.6285;jacket:0.2377;blouse:0.0261,solid,0.2667,black,black:0.586;denim blue:0.185;white:0.163,False,ok,,2026-11-26T16:00:41
+coat_0007,crops\coat_0007.jpg,coat,0.5722,coat:0.5722;jacket:0.2143;tracksuit:0.0543,solid,0.2468,black,black:0.583;charcoal:0.18;grey:0.164,False,ok,,2026-11-26T16:00:41
+coat_0008,crops\coat_0008.jpg,coat,0.2923,coat:0.2923;tracksuit:0.1956;kurta:0.1266,solid,0.5065,charcoal,charcoal:0.607;grey:0.253;silver:0.141,True,ok,,2026-11-26T16:00:41
+coat_0009,crops\coat_0009.jpg,coat,0.4487,coat:0.4487;jacket:0.25;blazer:0.1745,geometric,0.4111,black,black:0.398;charcoal:0.323;grey:0.279,False,ok,,2026-11-26T16:00:43
+coat_0010,crops\coat_0010.jpg,coat,0.7809,coat:0.7809;jacket:0.0974;blazer:0.0523,solid,0.5347,silver,silver:0.534;charcoal:0.466,False,ok,,2026-11-26T16:00:43
+coat_0011,crops\coat_0011.jpg,coat,0.2752,coat:0.2752;jacket:0.211;jumpsuit:0.0986,camouflage,0.5377,black,black:0.326;silver:0.311;charcoal:0.2;grey:0.162,True,ok,,2026-11-26T16:00:43
+coat_0012,crops\coat_0012.jpg,blouse,0.4692,blouse:0.4692;dress:0.0959;skirt:0.0913,solid,0.2624,white,white:0.452;charcoal:0.333;beige:0.131;tan:0.084,False,ok,,2026-11-26T16:00:43
+coat_0013,crops\coat_0013.jpg,jacket,0.5276,jacket:0.5276;coat:0.1097;blazer:0.0737,camouflage,0.3367,charcoal,charcoal:0.366;red:0.286;grey:0.207;beige:0.141,False,ok,,2026-11-26T16:00:43
+coat_0014,crops\coat_0014.jpg,coat,0.5124,coat:0.5124;jacket:0.1772;leggings:0.0978,camouflage,0.3927,black,black:0.384;grey:0.299;charcoal:0.243,False,ok,,2026-11-26T16:00:43
+coat_0015,crops\coat_0015.jpg,coat,0.9724,coat:0.9724;jacket:0.0194;dress:0.0017,animal print,0.3098,sand,sand:0.363;cream:0.359;tan:0.167;black:0.111,False,ok,,2026-11-26T16:00:43
+dress_0001,crops\dress_0001.jpg,dress,0.9183,dress:0.9183;lehenga:0.0466;top:0.0112,embroidered,0.4095,cream,cream:0.625;beige:0.168;charcoal:0.123;tan:0.084,False,ok,,2026-11-26T16:00:43
+dress_0002,crops\dress_0002.jpg,lehenga,0.9772,lehenga:0.9772;saree:0.0095;dress:0.0078,floral,0.3462,yellow,yellow:0.535;denim blue:0.202;sand:0.175;black:0.088,False,ok,,2026-11-26T16:00:44
+dress_0003,crops\dress_0003.jpg,lehenga,0.8498,lehenga:0.8498;saree:0.0912;dress:0.0435,embroidered,0.3987,charcoal,charcoal:0.357;lavender:0.338;grey:0.246,False,ok,,2026-11-26T16:00:44
+dress_0004,crops\dress_0004.jpg,dress,0.7882,dress:0.7882;skirt:0.0608;jumpsuit:0.0311,embroidered,0.3156,silver,silver:0.395;black:0.303;denim blue:0.171;lavender:0.131,False,ok,,2026-11-26T16:00:44
+dress_0005,crops\dress_0005.jpg,blouse,0.6021,blouse:0.6021;kurta:0.0961;dress:0.0902,animal print,0.4605,black,black:0.425;silver:0.21;white:0.201;grey:0.164,False,ok,,2026-11-26T16:00:44
+dress_0006,crops\dress_0006.jpg,dress,0.2711,dress:0.2711;blouse:0.218;lehenga:0.1854,geometric,0.2671,black,black:0.436;silver:0.318;charcoal:0.247,True,ok,,2026-11-26T16:00:44
+dress_0007,crops\dress_0007.jpg,dress,0.5122,dress:0.5122;jumpsuit:0.2004;top:0.1176,paisley,0.2922,black,black:0.377;charcoal:0.329;grey:0.174;silver:0.12,False,ok,,2026-11-26T16:00:44
+dress_0008,crops\dress_0008.jpg,dress,0.879,dress:0.879;skirt:0.0459;lehenga:0.0408,tie-dye,0.596,silver,silver:0.271;teal:0.267;black:0.241;grey:0.221,False,ok,,2026-11-26T16:00:44
+dress_0009,crops\dress_0009.jpg,dress,0.8403,dress:0.8403;lehenga:0.0338;skirt:0.0268,solid,0.3319,lavender,lavender:0.562;silver:0.218;denim blue:0.125;navy:0.095,False,ok,,2026-11-26T16:00:44
+dress_0010,crops\dress_0010.jpg,skirt,0.3876,skirt:0.3876;dress:0.2958;top:0.0782,checked,0.9539,grey,grey:0.38;black:0.317;charcoal:0.302,False,ok,,2026-11-26T16:00:46
+dress_0011,crops\dress_0011.jpg,dress,0.5197,dress:0.5197;jumpsuit:0.1988;lehenga:0.1232,embroidered,0.2461,charcoal,charcoal:0.384;grey:0.269;silver:0.253;black:0.094,False,ok,,2026-11-26T16:00:46
+dress_0012,crops\dress_0012.jpg,jumpsuit,0.3492,jumpsuit:0.3492;tracksuit:0.265;leggings:0.1302,geometric,0.4023,charcoal,charcoal:0.644;grey:0.356,True,ok,,2026-11-26T16:00:46
+dress_0013,crops\dress_0013.jpg,dress,0.8266,dress:0.8266;jumpsuit:0.0838;skirt:0.0243,embroidered,0.3019,red,red:0.538;black:0.247;charcoal:0.121;lavender:0.095,False,ok,,2026-11-26T16:00:46
+dress_0014,crops\dress_0014.jpg,dress,0.8891,dress:0.8891;jumpsuit:0.0353;skirt:0.0204,solid,0.492,black,black:0.404;brown:0.382;tan:0.133;beige:0.081,False,ok,,2026-11-26T16:00:46
+dress_0015,crops\dress_0015.jpg,blouse,0.4934,blouse:0.4934;top:0.2267;dress:0.0802,geometric,0.4559,black,black:0.554;sand:0.208;brown:0.133;tan:0.106,False,ok,,2026-11-26T16:00:46
+jacket_0001,crops\jacket_0001.jpg,hoodie,0.1732,hoodie:0.1732;shirt:0.1148;sweater:0.1148,embroidered,0.3728,brown,brown:0.426;charcoal:0.366;tan:0.115;cream:0.093,True,ok,,2026-11-26T16:00:46
+jacket_0002,crops\jacket_0002.jpg,t-shirt,0.2252,t-shirt:0.2252;shirt:0.1389;jacket:0.1365,graphic print,0.3971,silver,silver:0.356;grey:0.229;black:0.208;brown:0.207,True,ok,,2026-11-26T16:00:46
+jacket_0003,crops\jacket_0003.jpg,jumpsuit,0.4664,jumpsuit:0.4664;jacket:0.1882;blouse:0.1163,solid,0.5205,black,black:0.35;charcoal:0.328;white:0.207;silver:0.115,False,ok,,2026-11-26T16:00:47
+jacket_0004,crops\jacket_0004.jpg,jacket,0.4446,jacket:0.4446;blazer:0.259;coat:0.1316,solid,0.3389,black,black:0.306;beige:0.287;charcoal:0.259;grey:0.147,False,ok,,2026-11-26T16:00:47
+jacket_0005,crops\jacket_0005.jpg,jacket,0.2153,jacket:0.2153;blouse:0.1648;blazer:0.1423,checked,0.2505,denim blue,denim blue:0.316;charcoal:0.295;silver:0.257;grey:0.133,True,ok,,2026-11-26T16:00:47
+jacket_0006,crops\jacket_0006.jpg,blazer,0.2939,blazer:0.2939;jacket:0.2317;tracksuit:0.1571,solid,0.3451,white,white:0.491;grey:0.471,True,ok,,2026-11-26T16:00:47
+jacket_0007,crops\jacket_0007.jpg,t-shirt,0.5614,t-shirt:0.5614;shirt:0.2544;blouse:0.0753,graphic print,0.6433,grey,grey:0.512;charcoal:0.245;silver:0.244,False,ok,,2026-11-26T16:00:47
+jacket_0008,crops\jacket_0008.jpg,jeans,0.3268,jeans:0.3268;jacket:0.2892;blazer:0.0802,solid,0.3434,silver,silver:0.364;light blue:0.253;black:0.227;charcoal:0.157,True,ok,,2026-11-26T16:00:47
+jacket_0009,crops\jacket_0009.jpg,t-shirt,0.3812,t-shirt:0.3812;shirt:0.2482;jacket:0.213,graphic print,0.5903,grey,grey:0.529;silver:0.257;charcoal:0.214,False,ok,,2026-11-26T16:00:47
+jacket_0010,crops\jacket_0010.jpg,suit,0.7114,suit:0.7114;blazer:0.2238;shirt:0.0195,solid,0.3613,black,black:0.51;silver:0.234;olive:0.131;grey:0.125,False,ok,,2026-11-26T16:00:47
+jacket_0011,crops\jacket_0011.jpg,blazer,0.471,blazer:0.471;blouse:0.1019;coat:0.0832,solid,0.1892,silver,silver:0.499;red:0.253;blue:0.146;black:0.102,False,ok,,2026-11-26T16:00:49
+jacket_0012,crops\jacket_0012.jpg,blouse,0.2409,blouse:0.2409;blazer:0.1845;jacket:0.1816,polka dot,0.1953,charcoal,charcoal:0.526;grey:0.188;sand:0.165;silver:0.121,True,ok,,2026-11-26T16:00:49
+jacket_0013,crops\jacket_0013.jpg,jacket,0.8609,jacket:0.8609;blouse:0.0369;jeans:0.0335,embroidered,0.5921,grey,grey:0.421;charcoal:0.309;silver:0.271,False,ok,,2026-11-26T16:00:49
+jacket_0014,crops\jacket_0014.jpg,blazer,0.5289,blazer:0.5289;suit:0.2319;jacket:0.1399,solid,0.2837,silver,silver:0.434;charcoal:0.276;grey:0.188;white:0.102,False,ok,,2026-11-26T16:00:49
+jacket_0015,crops\jacket_0015.jpg,shirt,0.411,shirt:0.411;t-shirt:0.2977;top:0.0869,graphic print,0.439,black,black:0.312;grey:0.271;denim blue:0.219;silver:0.197,False,ok,,2026-11-26T16:00:49
+jumpsuit_0001,crops\jumpsuit_0001.jpg,jumpsuit,0.5502,jumpsuit:0.5502;leggings:0.1837;dress:0.0817,geometric,0.3671,lavender,lavender:0.455;charcoal:0.262;grey:0.23,False,ok,,2026-11-26T16:00:49
+jumpsuit_0002,crops\jumpsuit_0002.jpg,shirt,0.2804,shirt:0.2804;blouse:0.1932;dress:0.1817,floral,0.794,charcoal,charcoal:0.446;grey:0.404;silver:0.15,True,ok,,2026-11-26T16:00:49
+jumpsuit_0003,crops\jumpsuit_0003.jpg,tracksuit,0.434,tracksuit:0.434;jumpsuit:0.3763;leggings:0.0608,animal print,0.2335,black,black:0.96,False,ok,,2026-11-26T16:00:49
+jumpsuit_0004,crops\jumpsuit_0004.jpg,jumpsuit,0.4731,jumpsuit:0.4731;blouse:0.1807;dress:0.0773,geometric,0.7336,sand,sand:0.383;black:0.235;white:0.225;grey:0.157,False,ok,,2026-11-26T16:00:50
+jumpsuit_0005,crops\jumpsuit_0005.jpg,jumpsuit,0.4557,jumpsuit:0.4557;trousers:0.2011;blouse:0.1784,solid,0.4842,brown,brown:0.598;black:0.216;silver:0.1;tan:0.086,False,ok,,2026-11-26T16:00:50
+jumpsuit_0006,crops\jumpsuit_0006.jpg,tracksuit,0.3172,tracksuit:0.3172;jumpsuit:0.3162;jacket:0.1128,geometric,0.3909,denim blue,denim blue:0.499;black:0.215;grey:0.167;charcoal:0.119,True,ok,,2026-11-26T16:00:50
+jumpsuit_0007,crops\jumpsuit_0007.jpg,skirt,0.5627,skirt:0.5627;trousers:0.1685;leggings:0.1536,geometric,0.4299,brown,brown:0.284;grey:0.261;denim blue:0.237;white:0.218,False,ok,,2026-11-26T16:00:50
+jumpsuit_0008,crops\jumpsuit_0008.jpg,saree,0.3343,saree:0.3343;skirt:0.1772;kurta:0.1199,geometric,0.5643,charcoal,charcoal:0.396;black:0.348;grey:0.189,True,ok,,2026-11-26T16:00:50
+jumpsuit_0009,crops\jumpsuit_0009.jpg,skirt,0.3303,skirt:0.3303;top:0.2202;dress:0.1307,solid,0.2489,white,white:0.481;black:0.329;sand:0.18,True,ok,,2026-11-26T16:00:50
+jumpsuit_0010,crops\jumpsuit_0010.jpg,trousers,0.3833,trousers:0.3833;blouse:0.1891;leggings:0.179,paisley,0.2357,cream,cream:0.45;sand:0.257;grey:0.224,False,ok,,2026-11-26T16:00:50
+jumpsuit_0011,crops\jumpsuit_0011.jpg,lehenga,0.74,lehenga:0.74;saree:0.2045;blouse:0.0138,embroidered,0.3119,brown,brown:0.535;tan:0.221;black:0.143;sand:0.1,False,ok,,2026-11-26T16:00:50
+jumpsuit_0012,crops\jumpsuit_0012.jpg,skirt,0.2767,skirt:0.2767;jumpsuit:0.2566;trousers:0.1897,solid,0.461,black,black:0.934,True,ok,,2026-11-26T16:00:51
+jumpsuit_0013,crops\jumpsuit_0013.jpg,trousers,0.4565,trousers:0.4565;jumpsuit:0.1929;leggings:0.1146,solid,0.3871,black,black:0.557;charcoal:0.443,False,ok,,2026-11-26T16:00:51
+jumpsuit_0014,crops\jumpsuit_0014.jpg,suit,0.2054,suit:0.2054;blazer:0.1466;coat:0.1462,solid,0.2898,black,black:1.0,True,ok,,2026-11-26T16:00:51
+jumpsuit_0015,crops\jumpsuit_0015.jpg,blouse,0.4166,blouse:0.4166;jumpsuit:0.2994;suit:0.0555,solid,0.4822,white,white:0.598;silver:0.393,False,ok,,2026-11-26T16:00:51
+pants_0001,crops\pants_0001.jpg,trousers,0.2457,trousers:0.2457;suit:0.1682;skirt:0.1234,solid,0.575,white,white:0.33;black:0.316;silver:0.229;grey:0.125,True,ok,,2026-11-26T16:00:51
+pants_0002,crops\pants_0002.jpg,jeans,0.5476,jeans:0.5476;leggings:0.1433;shorts:0.0638,solid,0.3189,silver,silver:0.471;tan:0.274;grey:0.165;black:0.09,False,ok,,2026-11-26T16:00:51
+pants_0003,crops\pants_0003.jpg,leggings,0.2835,leggings:0.2835;trousers:0.2556;jumpsuit:0.2119,solid,0.6204,charcoal,charcoal:0.459;black:0.37;silver:0.091;grey:0.08,True,ok,,2026-11-26T16:00:51
+pants_0004,crops\pants_0004.jpg,jeans,0.4524,jeans:0.4524;leggings:0.1596;blouse:0.1339,solid,0.3019,black,black:0.461;charcoal:0.24;denim blue:0.234,False,ok,,2026-11-26T16:00:51
+pants_0005,crops\pants_0005.jpg,leggings,0.4892,leggings:0.4892;trousers:0.1402;jumpsuit:0.1098,animal print,0.3021,brown,brown:0.433;red:0.239;tan:0.175;beige:0.153,False,ok,,2026-11-26T16:00:53
+pants_0006,crops\pants_0006.jpg,jeans,0.7399,jeans:0.7399;leggings:0.1424;trousers:0.0607,solid,0.4409,charcoal,charcoal:0.826;grey:0.104,False,ok,,2026-11-26T16:00:53
+pants_0007,crops\pants_0007.jpg,leggings,0.1954,leggings:0.1954;trousers:0.1412;jeans:0.1219,solid,0.2427,grey,grey:0.518;brown:0.266;silver:0.215,True,ok,,2026-11-26T16:00:53
+pants_0008,crops\pants_0008.jpg,skirt,0.1761,skirt:0.1761;jeans:0.1521;shorts:0.1503,solid,0.2763,sand,sand:0.332;brown:0.311;tan:0.209;black:0.149,True,ok,,2026-11-26T16:00:53
+pants_0009,crops\pants_0009.jpg,sweater,0.5858,sweater:0.5858;hoodie:0.0947;coat:0.0647,embroidered,0.2441,silver,silver:0.395;black:0.338;maroon:0.149;grey:0.118,False,ok,,2026-11-26T16:00:53
+pants_0010,crops\pants_0010.jpg,jeans,0.3662,jeans:0.3662;trousers:0.2052;shorts:0.086,solid,0.3392,charcoal,charcoal:0.474;olive:0.367;grey:0.14,False,ok,,2026-11-26T16:00:53
+pants_0011,crops\pants_0011.jpg,trousers,0.305,trousers:0.305;suit:0.2065;jumpsuit:0.1697,solid,0.7024,charcoal,charcoal:0.763;silver:0.131;grey:0.106,True,ok,,2026-11-26T16:00:53
+pants_0012,crops\pants_0012.jpg,tracksuit,0.4907,tracksuit:0.4907;trousers:0.131;hoodie:0.1261,camouflage,0.2433,black,black:0.66;denim blue:0.244;grey:0.096,False,ok,,2026-11-26T16:00:53
+pants_0013,crops\pants_0013.jpg,trousers,0.3201,trousers:0.3201;leggings:0.3168;jeans:0.085,checked,0.2136,black,black:0.643;silver:0.167;light blue:0.13,True,ok,,2026-11-26T16:00:54
+pants_0014,crops\pants_0014.jpg,trousers,0.2086,trousers:0.2086;shorts:0.1515;jeans:0.0894,tie-dye,0.5676,black,black:0.799;charcoal:0.197,True,ok,,2026-11-26T16:00:54
+pants_0015,crops\pants_0015.jpg,leggings,0.6678,leggings:0.6678;trousers:0.2432;jacket:0.0165,geometric,0.3037,black,black:0.386;brown:0.378;grey:0.235,False,ok,,2026-11-26T16:00:54
+shirt_0001,crops\shirt_0001.jpg,blouse,0.7085,blouse:0.7085;top:0.1213;shirt:0.0534,geometric,0.289,white,white:0.405;grey:0.231;silver:0.224;charcoal:0.14,False,ok,,2026-11-26T16:00:54
+shirt_0002,crops\shirt_0002.jpg,skirt,0.2639,skirt:0.2639;shorts:0.1982;top:0.1932,striped,0.3818,black,black:0.416;silver:0.268;grey:0.179;charcoal:0.136,True,ok,,2026-11-26T16:00:54
+shirt_0003,crops\shirt_0003.jpg,sweater,0.6204,sweater:0.6204;top:0.1186;shirt:0.0603,geometric,0.5044,white,white:0.623;silver:0.276,False,ok,,2026-11-26T16:00:54
+shirt_0004,crops\shirt_0004.jpg,jacket,0.2303,jacket:0.2303;shirt:0.2083;blouse:0.0906,checked,0.882,charcoal,charcoal:0.539;brown:0.306;tan:0.155,True,ok,,2026-11-26T16:00:54
+shirt_0005,crops\shirt_0005.jpg,blazer,0.4085,blazer:0.4085;suit:0.2897;jacket:0.1646,paisley,0.308,charcoal,charcoal:0.528;silver:0.472,False,ok,,2026-11-26T16:00:54
+shirt_0006,crops\shirt_0006.jpg,blouse,0.7301,blouse:0.7301;top:0.0848;shirt:0.06,solid,0.4584,white,white:0.492;black:0.258;silver:0.161;grey:0.089,False,ok,,2026-11-26T16:00:55
+shirt_0007,crops\shirt_0007.jpg,shirt,0.2846,shirt:0.2846;kurta:0.2154;jeans:0.1339,checked,0.5576,denim blue,denim blue:0.28;black:0.273;charcoal:0.245;light blue:0.202,True,ok,,2026-11-26T16:00:55
+shirt_0008,crops\shirt_0008.jpg,jacket,0.2422,jacket:0.2422;shirt:0.1104;suit:0.0988,tie-dye,0.2147,white,white:0.768;charcoal:0.15,True,ok,,2026-11-26T16:00:55
+shirt_0009,crops\shirt_0009.jpg,blouse,0.42,blouse:0.42;top:0.2474;jeans:0.0784,solid,0.4465,denim blue,denim blue:0.404;charcoal:0.333;sand:0.182;cream:0.081,False,ok,,2026-11-26T16:00:55
+shirt_0010,crops\shirt_0010.jpg,jacket,0.4484,jacket:0.4484;blouse:0.2706;blazer:0.1851,checked,0.5799,black,black:0.305;denim blue:0.275;light blue:0.232;charcoal:0.188,False,ok,,2026-11-26T16:00:56
+shirt_0011,crops\shirt_0011.jpg,shirt,0.1961,shirt:0.1961;jacket:0.193;jumpsuit:0.1143,graphic print,0.248,charcoal,charcoal:0.618;brown:0.201;grey:0.182,True,ok,,2026-11-26T16:00:56
+shirt_0012,crops\shirt_0012.jpg,blouse,0.3794,blouse:0.3794;jacket:0.1806;shirt:0.0927,geometric,0.2299,red,red:0.555;maroon:0.187;beige:0.147;grey:0.111,False,ok,,2026-11-26T16:00:56
+shirt_0013,crops\shirt_0013.jpg,jacket,0.4901,jacket:0.4901;blazer:0.2558;coat:0.1828,geometric,0.2295,brown,brown:0.841;black:0.107,False,ok,,2026-11-26T16:00:56
+shirt_0014,crops\shirt_0014.jpg,shirt,0.4592,shirt:0.4592;kurta:0.1887;t-shirt:0.1168,solid,0.3126,grey,grey:0.626;silver:0.374,False,ok,,2026-11-26T16:00:57
+shirt_0015,crops\shirt_0015.jpg,shirt,0.1871,shirt:0.1871;top:0.1175;jacket:0.1122,checked,0.3091,white,white:0.614;grey:0.285;black:0.101,True,ok,,2026-11-26T16:00:57
+shorts_0001,crops\shorts_0001.jpg,shorts,0.6727,shorts:0.6727;trousers:0.0966;skirt:0.0795,solid,0.2979,black,black:0.687;silver:0.247,False,ok,,2026-11-26T16:00:57
+shorts_0002,crops\shorts_0002.jpg,shorts,0.927,shorts:0.927;skirt:0.0644;trousers:0.0055,solid,0.7498,black,black:0.649;charcoal:0.183;white:0.122,False,ok,,2026-11-26T16:00:57
+shorts_0003,crops\shorts_0003.jpg,shorts,0.6123,shorts:0.6123;jeans:0.2266;skirt:0.1139,embroidered,0.2674,grey,grey:0.537;charcoal:0.252;tan:0.134,False,ok,,2026-11-26T16:00:57
+shorts_0004,crops\shorts_0004.jpg,shorts,0.8873,shorts:0.8873;jeans:0.0729;skirt:0.0187,solid,0.298,black,black:0.846,False,ok,,2026-11-26T16:00:57
+shorts_0005,crops\shorts_0005.jpg,shorts,0.8093,shorts:0.8093;skirt:0.1477;trousers:0.0098,camouflage,0.8793,charcoal,charcoal:0.566;grey:0.25;silver:0.184,False,ok,,2026-11-26T16:00:57
+shorts_0006,crops\shorts_0006.jpg,skirt,0.666,skirt:0.666;shorts:0.1905;leggings:0.0556,geometric,0.2783,charcoal,charcoal:0.62;grey:0.206;silver:0.091;black:0.082,False,ok,,2026-11-26T16:00:57
+shorts_0007,crops\shorts_0007.jpg,shorts,0.9084,shorts:0.9084;skirt:0.0507;jeans:0.0164,polka dot,0.2453,beige,beige:0.378;black:0.261;brown:0.189;tan:0.173,False,ok,,2026-11-26T16:00:58
+shorts_0008,crops\shorts_0008.jpg,top,0.2326,top:0.2326;blouse:0.2178;shorts:0.1717,polka dot,0.2281,beige,beige:0.477;black:0.266;brown:0.185,True,ok,,2026-11-26T16:00:58
+shorts_0009,crops\shorts_0009.jpg,leggings,0.7613,leggings:0.7613;trousers:0.0951;jumpsuit:0.0648,floral,0.3763,maroon,maroon:0.332;brown:0.281;tan:0.28;grey:0.108,False,ok,,2026-11-26T16:00:58
+shorts_0010,crops\shorts_0010.jpg,skirt,0.3041,skirt:0.3041;leggings:0.256;trousers:0.1067,solid,0.2847,black,black:0.686;silver:0.252,True,ok,,2026-11-26T16:00:58
+shorts_0011,crops\shorts_0011.jpg,jeans,0.4694,jeans:0.4694;shorts:0.4285;skirt:0.0542,embroidered,0.3971,silver,silver:0.652;charcoal:0.298,False,ok,,2026-11-26T16:00:58
+shorts_0012,crops\shorts_0012.jpg,shorts,0.7229,shorts:0.7229;jeans:0.1676;skirt:0.0255,embroidered,0.3269,grey,grey:0.518;silver:0.387;charcoal:0.095,False,ok,,2026-11-26T16:00:58
+shorts_0013,crops\shorts_0013.jpg,shorts,0.7695,shorts:0.7695;jeans:0.0994;skirt:0.0704,striped,0.2933,light blue,light blue:0.489;denim blue:0.25;silver:0.206,False,ok,,2026-11-26T16:00:58
+shorts_0014,crops\shorts_0014.jpg,trousers,0.4092,trousers:0.4092;leggings:0.226;tracksuit:0.2173,solid,0.4904,white,white:0.616;grey:0.22;charcoal:0.112,False,ok,,2026-11-26T16:00:58
+shorts_0015,crops\shorts_0015.jpg,shorts,0.8219,shorts:0.8219;trousers:0.0781;skirt:0.057,solid,0.4501,grey,grey:0.737;beige:0.233,False,ok,,2026-11-26T16:00:59
+skirt_0001,crops\skirt_0001.jpg,dress,0.8544,dress:0.8544;skirt:0.0678;lehenga:0.0294,solid,0.5713,black,black:0.527;cream:0.311;sand:0.087,False,ok,,2026-11-26T16:00:59
+skirt_0002,crops\skirt_0002.jpg,dress,0.5386,dress:0.5386;saree:0.2279;lehenga:0.1125,solid,0.411,silver,silver:0.687;red:0.238,False,ok,,2026-11-26T16:00:59
+skirt_0003,crops\skirt_0003.jpg,dress,0.6029,dress:0.6029;lehenga:0.1597;saree:0.126,geometric,0.2637,charcoal,charcoal:0.451;black:0.256;cream:0.173;grey:0.12,False,ok,,2026-11-26T16:00:59
+skirt_0004,crops\skirt_0004.jpg,dress,0.8687,dress:0.8687;lehenga:0.0708;skirt:0.0359,embroidered,0.619,black,black:0.389;white:0.347;tan:0.154;charcoal:0.11,False,ok,,2026-11-26T16:01:00
+skirt_0005,crops\skirt_0005.jpg,skirt,0.3719,skirt:0.3719;lehenga:0.2528;dress:0.117,embroidered,0.312,black,black:0.379;grey:0.332;charcoal:0.164;silver:0.124,False,ok,,2026-11-26T16:01:00
+skirt_0006,crops\skirt_0006.jpg,dress,0.6595,dress:0.6595;jumpsuit:0.1018;lehenga:0.0825,geometric,0.3248,charcoal,charcoal:0.318;light blue:0.275;silver:0.247;denim blue:0.16,False,ok,,2026-11-26T16:01:00
+skirt_0007,crops\skirt_0007.jpg,jumpsuit,0.185,jumpsuit:0.185;leggings:0.1579;blouse:0.1348,striped,0.723,black,black:0.507;silver:0.352;grey:0.14,True,ok,,2026-11-26T16:01:00
+skirt_0008,crops\skirt_0008.jpg,skirt,0.8171,skirt:0.8171;lehenga:0.0969;leggings:0.0348,paisley,0.7096,white,white:0.372;silver:0.356;charcoal:0.198,False,ok,,2026-11-26T16:01:01
+skirt_0009,crops\skirt_0009.jpg,lehenga,0.3166,lehenga:0.3166;dress:0.28;saree:0.1494,floral,0.3636,red,red:0.417;navy:0.257;tan:0.183;maroon:0.143,True,ok,,2026-11-26T16:01:01
+skirt_0010,crops\skirt_0010.jpg,skirt,0.8276,skirt:0.8276;trousers:0.0371;coat:0.0357,solid,0.2831,sand,sand:0.592;tan:0.201;brown:0.131,False,ok,,2026-11-26T16:01:01
+skirt_0011,crops\skirt_0011.jpg,skirt,0.8257,skirt:0.8257;shorts:0.1319;dress:0.009,solid,0.174,charcoal,charcoal:0.629;grey:0.348,False,ok,,2026-11-26T16:01:01
+skirt_0012,crops\skirt_0012.jpg,skirt,0.7094,skirt:0.7094;dress:0.2234;shorts:0.0179,striped,0.8711,charcoal,charcoal:0.405;silver:0.282;red:0.19;grey:0.123,False,ok,,2026-11-26T16:01:01
+skirt_0013,crops\skirt_0013.jpg,dress,0.4143,dress:0.4143;skirt:0.3493;lehenga:0.0579,geometric,0.3194,white,white:0.339;denim blue:0.321;black:0.204;grey:0.136,False,ok,,2026-11-26T16:01:01
+skirt_0014,crops\skirt_0014.jpg,skirt,0.9563,skirt:0.9563;dress:0.0208;coat:0.0109,solid,0.4062,charcoal,charcoal:0.423;grey:0.233;black:0.181;red:0.162,False,ok,,2026-11-26T16:01:01
+skirt_0015,crops\skirt_0015.jpg,skirt,0.9103,skirt:0.9103;dress:0.0175;sweater:0.0129,geometric,0.2225,tan,tan:0.395;brown:0.337;beige:0.168;black:0.1,False,ok,,2026-11-26T16:01:01
+sweater_0001,crops\sweater_0001.jpg,sweater,0.578,sweater:0.578;blouse:0.2649;shirt:0.0593,polka dot,0.4716,cream,cream:0.387;brown:0.284;pink:0.226;black:0.102,False,ok,,2026-11-26T16:01:02
+sweater_0002,crops\sweater_0002.jpg,sweater,0.8477,sweater:0.8477;blouse:0.0356;top:0.0208,solid,0.4612,beige,beige:0.561;tan:0.164;white:0.153;brown:0.122,False,ok,,2026-11-26T16:01:02
+sweater_0003,crops\sweater_0003.jpg,sweater,0.3672,sweater:0.3672;blouse:0.3386;top:0.0767,solid,0.4325,charcoal,charcoal:0.346;brown:0.248;silver:0.206;tan:0.2,False,ok,,2026-11-26T16:01:02
+sweater_0004,crops\sweater_0004.jpg,sweater,0.4509,sweater:0.4509;blouse:0.2486;top:0.1142,polka dot,0.351,cream,cream:0.958,False,ok,,2026-11-26T16:01:02
+sweater_0005,crops\sweater_0005.jpg,blouse,0.3571,blouse:0.3571;sweater:0.3349;top:0.0989,striped,0.4409,silver,silver:0.264;black:0.246;grey:0.245;charcoal:0.244,False,ok,,2026-11-26T16:01:02
+sweater_0006,crops\sweater_0006.jpg,sweater,0.6124,sweater:0.6124;dress:0.1303;blouse:0.0618,solid,0.2634,beige,beige:0.496;tan:0.256;brown:0.248,False,ok,,2026-11-26T16:01:02
+sweater_0007,crops\sweater_0007.jpg,sweater,0.8558,sweater:0.8558;hoodie:0.0903;coat:0.0307,solid,0.3545,teal,teal:0.799;charcoal:0.201,False,ok,,2026-11-26T16:01:02
+sweater_0008,crops\sweater_0008.jpg,coat,0.2824,coat:0.2824;jacket:0.2319;blazer:0.1534,solid,0.4255,silver,silver:0.721;charcoal:0.279,True,ok,,2026-11-26T16:01:02
+sweater_0009,crops\sweater_0009.jpg,sweater,0.6863,sweater:0.6863;jacket:0.0728;blouse:0.0526,floral,0.5917,charcoal,charcoal:0.617;grey:0.233;silver:0.15,False,ok,,2026-11-26T16:01:03
+sweater_0010,crops\sweater_0010.jpg,sweater,0.4984,sweater:0.4984;blouse:0.1916;top:0.0888,solid,0.6968,silver,silver:0.559;grey:0.252;charcoal:0.189,False,ok,,2026-11-26T16:01:03
+sweater_0011,crops\sweater_0011.jpg,blouse,0.2829,blouse:0.2829;sweater:0.2191;top:0.102,geometric,0.8123,black,black:0.631;charcoal:0.217;grey:0.112,True,ok,,2026-11-26T16:01:03
+sweater_0012,crops\sweater_0012.jpg,coat,0.636,coat:0.636;jacket:0.2415;tracksuit:0.0575,solid,0.3259,black,black:0.476;navy:0.332;maroon:0.141,False,ok,,2026-11-26T16:01:03
+sweater_0013,crops\sweater_0013.jpg,sweater,0.3121,sweater:0.3121;blouse:0.1117;top:0.0874,polka dot,0.1892,silver,silver:0.755;charcoal:0.176,True,ok,,2026-11-26T16:01:03
+sweater_0014,crops\sweater_0014.jpg,sweater,0.2218,sweater:0.2218;tracksuit:0.1128;blouse:0.1077,camouflage,0.1776,grey,grey:0.549;silver:0.451,True,ok,,2026-11-26T16:01:04
+sweater_0015,crops\sweater_0015.jpg,blouse,0.2367,blouse:0.2367;sweater:0.2121;leggings:0.0932,camouflage,0.2872,cream,cream:0.354;sand:0.27;brown:0.193;tan:0.184,True,ok,,2026-11-26T16:01:04
+top_0001,crops\top_0001.jpg,t-shirt,0.2506,t-shirt:0.2506;tracksuit:0.2058;shirt:0.2001,tie-dye,0.2967,white,white:0.309;grey:0.303;brown:0.267;black:0.122,True,ok,,2026-11-26T16:01:04
+top_0002,crops\top_0002.jpg,t-shirt,0.7304,t-shirt:0.7304;shirt:0.1689;top:0.0405,tie-dye,0.3925,white,white:0.482;grey:0.332;beige:0.186,False,ok,,2026-11-26T16:01:05
+top_0003,crops\top_0003.jpg,t-shirt,0.5869,t-shirt:0.5869;shirt:0.1774;hoodie:0.1077,graphic print,0.359,silver,silver:0.323;charcoal:0.292;grey:0.271;black:0.114,False,ok,,2026-11-26T16:01:05
+top_0004,crops\top_0004.jpg,blouse,0.2876,blouse:0.2876;top:0.1835;jumpsuit:0.1025,solid,0.178,charcoal,charcoal:0.343;black:0.343;tan:0.276,True,ok,,2026-11-26T16:01:05
+top_0005,crops\top_0005.jpg,sweater,0.5649,sweater:0.5649;top:0.1316;shirt:0.0641,geometric,0.4299,white,white:0.657;silver:0.238,False,ok,,2026-11-26T16:01:05
+top_0006,crops\top_0006.jpg,saree,0.3134,saree:0.3134;lehenga:0.2933;blouse:0.2264,embroidered,0.1825,tan,tan:0.428;black:0.327;brown:0.245,True,ok,,2026-11-26T16:01:05
+top_0007,crops\top_0007.jpg,blouse,0.4037,blouse:0.4037;saree:0.238;top:0.0948,solid,0.3926,black,black:0.844,False,ok,,2026-11-26T16:01:05
+top_0008,crops\top_0008.jpg,t-shirt,0.7101,t-shirt:0.7101;shirt:0.1503;top:0.0917,graphic print,0.4613,black,black:0.361;brown:0.244;tan:0.227;red:0.169,False,ok,,2026-11-26T16:01:05
+top_0009,crops\top_0009.jpg,t-shirt,0.5125,t-shirt:0.5125;shirt:0.417;top:0.0156,graphic print,0.3859,red,red:0.389;maroon:0.275;tan:0.236;grey:0.099,False,ok,,2026-11-26T16:01:05
+top_0010,crops\top_0010.jpg,t-shirt,0.5064,t-shirt:0.5064;shirt:0.1195;shorts:0.0967,graphic print,0.4318,black,black:0.463;charcoal:0.219;silver:0.165;grey:0.154,False,ok,,2026-11-26T16:01:06
+top_0011,crops\top_0011.jpg,t-shirt,0.5117,t-shirt:0.5117;shirt:0.2034;top:0.1254,graphic print,0.5257,white,white:0.559;tan:0.21;silver:0.138;grey:0.092,False,ok,,2026-11-26T16:01:06
+top_0012,crops\top_0012.jpg,blouse,0.5254,blouse:0.5254;top:0.0687;leggings:0.0555,solid,0.2093,black,black:0.42;brown:0.275;mustard:0.153;silver:0.152,False,ok,,2026-11-26T16:01:06
+top_0013,crops\top_0013.jpg,blouse,0.7635,blouse:0.7635;top:0.0611;saree:0.0437,solid,0.3496,sand,sand:0.48;black:0.223;tan:0.152;brown:0.144,False,ok,,2026-11-26T16:01:06
+top_0014,crops\top_0014.jpg,t-shirt,0.4621,t-shirt:0.4621;shirt:0.3379;top:0.086,geometric,0.4332,silver,silver:0.664;brown:0.336,False,ok,,2026-11-26T16:01:06
+top_0015,crops\top_0015.jpg,skirt,0.5371,skirt:0.5371;top:0.1382;leggings:0.0771,tie-dye,0.7523,denim blue,denim blue:0.278;charcoal:0.248;grey:0.244;silver:0.231,False,ok,,2026-11-26T16:01:06

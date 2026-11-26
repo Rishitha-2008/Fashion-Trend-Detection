@@ -1,0 +1,6792 @@
+[
+  {
+    "image_id": "coat_0001",
+    "path": "crops\\coat_0001.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.29,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.29
+      ],
+      [
+        "jumpsuit",
+        0.2516
+      ],
+      [
+        "top",
+        0.1665
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.403,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#0e1728",
+        "share": 0.306
+      },
+      {
+        "name": "silver",
+        "hex": "#aeb0ae",
+        "share": 0.261
+      },
+      {
+        "name": "denim blue",
+        "hex": "#124f75",
+        "share": 0.236
+      },
+      {
+        "name": "charcoal",
+        "hex": "#5a3b39",
+        "share": 0.197
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:41"
+  },
+  {
+    "image_id": "coat_0002",
+    "path": "crops\\coat_0002.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.393,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.393
+      ],
+      [
+        "jacket",
+        0.0953
+      ],
+      [
+        "leggings",
+        0.0863
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.563,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#c2b4aa",
+        "share": 0.599
+      },
+      {
+        "name": "grey",
+        "hex": "#7e7062",
+        "share": 0.304
+      },
+      {
+        "name": "charcoal",
+        "hex": "#423328",
+        "share": 0.097
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:41"
+  },
+  {
+    "image_id": "coat_0003",
+    "path": "crops\\coat_0003.jpg",
+    "clothing_type": "blazer",
+    "clothing_confidence": 0.3107,
+    "clothing_top_k": [
+      [
+        "blazer",
+        0.3107
+      ],
+      [
+        "coat",
+        0.1814
+      ],
+      [
+        "jacket",
+        0.1587
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2641,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#4d423c",
+        "share": 0.306
+      },
+      {
+        "name": "black",
+        "hex": "#211110",
+        "share": 0.275
+      },
+      {
+        "name": "tan",
+        "hex": "#a58c76",
+        "share": 0.24
+      },
+      {
+        "name": "silver",
+        "hex": "#b9b5be",
+        "share": 0.179
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:41"
+  },
+  {
+    "image_id": "coat_0004",
+    "path": "crops\\coat_0004.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.8259,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.8259
+      ],
+      [
+        "jacket",
+        0.0738
+      ],
+      [
+        "jumpsuit",
+        0.0487
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2563,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#070706",
+        "share": 0.453
+      },
+      {
+        "name": "charcoal",
+        "hex": "#484746",
+        "share": 0.349
+      },
+      {
+        "name": "silver",
+        "hex": "#e5c8c3",
+        "share": 0.117
+      },
+      {
+        "name": "grey",
+        "hex": "#98807b",
+        "share": 0.081
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:41"
+  },
+  {
+    "image_id": "coat_0005",
+    "path": "crops\\coat_0005.jpg",
+    "clothing_type": "blazer",
+    "clothing_confidence": 0.4546,
+    "clothing_top_k": [
+      [
+        "blazer",
+        0.4546
+      ],
+      [
+        "coat",
+        0.1448
+      ],
+      [
+        "skirt",
+        0.1371
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.1855,
+    "primary_colour": "brown",
+    "colours": [
+      {
+        "name": "brown",
+        "hex": "#744c36",
+        "share": 0.519
+      },
+      {
+        "name": "black",
+        "hex": "#110a09",
+        "share": 0.283
+      },
+      {
+        "name": "red",
+        "hex": "#990e12",
+        "share": 0.111
+      },
+      {
+        "name": "tan",
+        "hex": "#9e715b",
+        "share": 0.087
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:41"
+  },
+  {
+    "image_id": "coat_0006",
+    "path": "crops\\coat_0006.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.6285,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.6285
+      ],
+      [
+        "jacket",
+        0.2377
+      ],
+      [
+        "blouse",
+        0.0261
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2667,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#0b132c",
+        "share": 0.586
+      },
+      {
+        "name": "denim blue",
+        "hex": "#364f84",
+        "share": 0.185
+      },
+      {
+        "name": "white",
+        "hex": "#f1f2f3",
+        "share": 0.163
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:41"
+  },
+  {
+    "image_id": "coat_0007",
+    "path": "crops\\coat_0007.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.5722,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.5722
+      ],
+      [
+        "jacket",
+        0.2143
+      ],
+      [
+        "tracksuit",
+        0.0543
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2468,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#070913",
+        "share": 0.583
+      },
+      {
+        "name": "charcoal",
+        "hex": "#42475e",
+        "share": 0.18
+      },
+      {
+        "name": "grey",
+        "hex": "#666777",
+        "share": 0.164
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:41"
+  },
+  {
+    "image_id": "coat_0008",
+    "path": "crops\\coat_0008.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.2923,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.2923
+      ],
+      [
+        "tracksuit",
+        0.1956
+      ],
+      [
+        "kurta",
+        0.1266
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.5065,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#4d4d42",
+        "share": 0.607
+      },
+      {
+        "name": "grey",
+        "hex": "#939392",
+        "share": 0.253
+      },
+      {
+        "name": "silver",
+        "hex": "#aaaaa9",
+        "share": 0.141
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:41"
+  },
+  {
+    "image_id": "coat_0009",
+    "path": "crops\\coat_0009.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.4487,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.4487
+      ],
+      [
+        "jacket",
+        0.25
+      ],
+      [
+        "blazer",
+        0.1745
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.4111,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#25201d",
+        "share": 0.398
+      },
+      {
+        "name": "charcoal",
+        "hex": "#605851",
+        "share": 0.323
+      },
+      {
+        "name": "grey",
+        "hex": "#736c63",
+        "share": 0.279
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:43"
+  },
+  {
+    "image_id": "coat_0010",
+    "path": "crops\\coat_0010.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.7809,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.7809
+      ],
+      [
+        "jacket",
+        0.0974
+      ],
+      [
+        "blazer",
+        0.0523
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.5347,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#c5c4c9",
+        "share": 0.534
+      },
+      {
+        "name": "charcoal",
+        "hex": "#242833",
+        "share": 0.466
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:43"
+  },
+  {
+    "image_id": "coat_0011",
+    "path": "crops\\coat_0011.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.2752,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.2752
+      ],
+      [
+        "jacket",
+        0.211
+      ],
+      [
+        "jumpsuit",
+        0.0986
+      ]
+    ],
+    "pattern": "camouflage",
+    "pattern_confidence": 0.5377,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#1d2020",
+        "share": 0.326
+      },
+      {
+        "name": "silver",
+        "hex": "#c6c4d0",
+        "share": 0.311
+      },
+      {
+        "name": "charcoal",
+        "hex": "#374352",
+        "share": 0.2
+      },
+      {
+        "name": "grey",
+        "hex": "#8a92a5",
+        "share": 0.162
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:43"
+  },
+  {
+    "image_id": "coat_0012",
+    "path": "crops\\coat_0012.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.4692,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.4692
+      ],
+      [
+        "dress",
+        0.0959
+      ],
+      [
+        "skirt",
+        0.0913
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2624,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#f6f7f1",
+        "share": 0.452
+      },
+      {
+        "name": "charcoal",
+        "hex": "#322c2b",
+        "share": 0.333
+      },
+      {
+        "name": "beige",
+        "hex": "#dcb6a9",
+        "share": 0.131
+      },
+      {
+        "name": "tan",
+        "hex": "#b48173",
+        "share": 0.084
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:43"
+  },
+  {
+    "image_id": "coat_0013",
+    "path": "crops\\coat_0013.jpg",
+    "clothing_type": "jacket",
+    "clothing_confidence": 0.5276,
+    "clothing_top_k": [
+      [
+        "jacket",
+        0.5276
+      ],
+      [
+        "coat",
+        0.1097
+      ],
+      [
+        "blazer",
+        0.0737
+      ]
+    ],
+    "pattern": "camouflage",
+    "pattern_confidence": 0.3367,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#4f3d41",
+        "share": 0.366
+      },
+      {
+        "name": "red",
+        "hex": "#e23b48",
+        "share": 0.286
+      },
+      {
+        "name": "grey",
+        "hex": "#96836e",
+        "share": 0.207
+      },
+      {
+        "name": "beige",
+        "hex": "#dfc4b4",
+        "share": 0.141
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:43"
+  },
+  {
+    "image_id": "coat_0014",
+    "path": "crops\\coat_0014.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.5124,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.5124
+      ],
+      [
+        "jacket",
+        0.1772
+      ],
+      [
+        "leggings",
+        0.0978
+      ]
+    ],
+    "pattern": "camouflage",
+    "pattern_confidence": 0.3927,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#211b1d",
+        "share": 0.384
+      },
+      {
+        "name": "grey",
+        "hex": "#827f72",
+        "share": 0.299
+      },
+      {
+        "name": "charcoal",
+        "hex": "#3c3534",
+        "share": 0.243
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:43"
+  },
+  {
+    "image_id": "coat_0015",
+    "path": "crops\\coat_0015.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.9724,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.9724
+      ],
+      [
+        "jacket",
+        0.0194
+      ],
+      [
+        "dress",
+        0.0017
+      ]
+    ],
+    "pattern": "animal print",
+    "pattern_confidence": 0.3098,
+    "primary_colour": "sand",
+    "colours": [
+      {
+        "name": "sand",
+        "hex": "#d0b88b",
+        "share": 0.363
+      },
+      {
+        "name": "cream",
+        "hex": "#f5f3e5",
+        "share": 0.359
+      },
+      {
+        "name": "tan",
+        "hex": "#a48158",
+        "share": 0.167
+      },
+      {
+        "name": "black",
+        "hex": "#351f16",
+        "share": 0.111
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:43"
+  },
+  {
+    "image_id": "dress_0001",
+    "path": "crops\\dress_0001.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.9183,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.9183
+      ],
+      [
+        "lehenga",
+        0.0466
+      ],
+      [
+        "top",
+        0.0112
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.4095,
+    "primary_colour": "cream",
+    "colours": [
+      {
+        "name": "cream",
+        "hex": "#f4e7ca",
+        "share": 0.625
+      },
+      {
+        "name": "beige",
+        "hex": "#dfc5a9",
+        "share": 0.168
+      },
+      {
+        "name": "charcoal",
+        "hex": "#48382d",
+        "share": 0.123
+      },
+      {
+        "name": "tan",
+        "hex": "#a1826d",
+        "share": 0.084
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:43"
+  },
+  {
+    "image_id": "dress_0002",
+    "path": "crops\\dress_0002.jpg",
+    "clothing_type": "lehenga",
+    "clothing_confidence": 0.9772,
+    "clothing_top_k": [
+      [
+        "lehenga",
+        0.9772
+      ],
+      [
+        "saree",
+        0.0095
+      ],
+      [
+        "dress",
+        0.0078
+      ]
+    ],
+    "pattern": "floral",
+    "pattern_confidence": 0.3462,
+    "primary_colour": "yellow",
+    "colours": [
+      {
+        "name": "yellow",
+        "hex": "#f6ba1c",
+        "share": 0.535
+      },
+      {
+        "name": "denim blue",
+        "hex": "#885c8a",
+        "share": 0.202
+      },
+      {
+        "name": "sand",
+        "hex": "#eabf94",
+        "share": 0.175
+      },
+      {
+        "name": "black",
+        "hex": "#170f11",
+        "share": 0.088
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:44"
+  },
+  {
+    "image_id": "dress_0003",
+    "path": "crops\\dress_0003.jpg",
+    "clothing_type": "lehenga",
+    "clothing_confidence": 0.8498,
+    "clothing_top_k": [
+      [
+        "lehenga",
+        0.8498
+      ],
+      [
+        "saree",
+        0.0912
+      ],
+      [
+        "dress",
+        0.0435
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.3987,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#372d3b",
+        "share": 0.357
+      },
+      {
+        "name": "lavender",
+        "hex": "#a99ac5",
+        "share": 0.338
+      },
+      {
+        "name": "grey",
+        "hex": "#8a7c9e",
+        "share": 0.246
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:44"
+  },
+  {
+    "image_id": "dress_0004",
+    "path": "crops\\dress_0004.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.7882,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.7882
+      ],
+      [
+        "skirt",
+        0.0608
+      ],
+      [
+        "jumpsuit",
+        0.0311
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.3156,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#d7d5e7",
+        "share": 0.395
+      },
+      {
+        "name": "black",
+        "hex": "#050509",
+        "share": 0.303
+      },
+      {
+        "name": "denim blue",
+        "hex": "#494a7f",
+        "share": 0.171
+      },
+      {
+        "name": "lavender",
+        "hex": "#a99ab3",
+        "share": 0.131
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:44"
+  },
+  {
+    "image_id": "dress_0005",
+    "path": "crops\\dress_0005.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.6021,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.6021
+      ],
+      [
+        "kurta",
+        0.0961
+      ],
+      [
+        "dress",
+        0.0902
+      ]
+    ],
+    "pattern": "animal print",
+    "pattern_confidence": 0.4605,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#181918",
+        "share": 0.425
+      },
+      {
+        "name": "silver",
+        "hex": "#c4c2c4",
+        "share": 0.21
+      },
+      {
+        "name": "white",
+        "hex": "#f6f5f4",
+        "share": 0.201
+      },
+      {
+        "name": "grey",
+        "hex": "#7a6c66",
+        "share": 0.164
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:44"
+  },
+  {
+    "image_id": "dress_0006",
+    "path": "crops\\dress_0006.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.2711,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.2711
+      ],
+      [
+        "blouse",
+        0.218
+      ],
+      [
+        "lehenga",
+        0.1854
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.2671,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#0d1315",
+        "share": 0.436
+      },
+      {
+        "name": "silver",
+        "hex": "#d2c9cb",
+        "share": 0.318
+      },
+      {
+        "name": "charcoal",
+        "hex": "#3b444b",
+        "share": 0.247
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:44"
+  },
+  {
+    "image_id": "dress_0007",
+    "path": "crops\\dress_0007.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.5122,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.5122
+      ],
+      [
+        "jumpsuit",
+        0.2004
+      ],
+      [
+        "top",
+        0.1176
+      ]
+    ],
+    "pattern": "paisley",
+    "pattern_confidence": 0.2922,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#19100f",
+        "share": 0.377
+      },
+      {
+        "name": "charcoal",
+        "hex": "#443632",
+        "share": 0.329
+      },
+      {
+        "name": "grey",
+        "hex": "#776a65",
+        "share": 0.174
+      },
+      {
+        "name": "silver",
+        "hex": "#c5bab8",
+        "share": 0.12
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:44"
+  },
+  {
+    "image_id": "dress_0008",
+    "path": "crops\\dress_0008.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.879,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.879
+      ],
+      [
+        "skirt",
+        0.0459
+      ],
+      [
+        "lehenga",
+        0.0408
+      ]
+    ],
+    "pattern": "tie-dye",
+    "pattern_confidence": 0.596,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#a0b1a5",
+        "share": 0.271
+      },
+      {
+        "name": "teal",
+        "hex": "#68938e",
+        "share": 0.267
+      },
+      {
+        "name": "black",
+        "hex": "#1a0c07",
+        "share": 0.241
+      },
+      {
+        "name": "grey",
+        "hex": "#576054",
+        "share": 0.221
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:44"
+  },
+  {
+    "image_id": "dress_0009",
+    "path": "crops\\dress_0009.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.8403,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.8403
+      ],
+      [
+        "lehenga",
+        0.0338
+      ],
+      [
+        "skirt",
+        0.0268
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3319,
+    "primary_colour": "lavender",
+    "colours": [
+      {
+        "name": "lavender",
+        "hex": "#8c95c8",
+        "share": 0.562
+      },
+      {
+        "name": "silver",
+        "hex": "#c3c4d6",
+        "share": 0.218
+      },
+      {
+        "name": "denim blue",
+        "hex": "#4a4e80",
+        "share": 0.125
+      },
+      {
+        "name": "navy",
+        "hex": "#111737",
+        "share": 0.095
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:44"
+  },
+  {
+    "image_id": "dress_0010",
+    "path": "crops\\dress_0010.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.3876,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.3876
+      ],
+      [
+        "dress",
+        0.2958
+      ],
+      [
+        "top",
+        0.0782
+      ]
+    ],
+    "pattern": "checked",
+    "pattern_confidence": 0.9539,
+    "primary_colour": "grey",
+    "colours": [
+      {
+        "name": "grey",
+        "hex": "#969296",
+        "share": 0.38
+      },
+      {
+        "name": "black",
+        "hex": "#1f1218",
+        "share": 0.317
+      },
+      {
+        "name": "charcoal",
+        "hex": "#3b2128",
+        "share": 0.302
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:46"
+  },
+  {
+    "image_id": "dress_0011",
+    "path": "crops\\dress_0011.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.5197,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.5197
+      ],
+      [
+        "jumpsuit",
+        0.1988
+      ],
+      [
+        "lehenga",
+        0.1232
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.2461,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#382d3e",
+        "share": 0.384
+      },
+      {
+        "name": "grey",
+        "hex": "#7e6e7a",
+        "share": 0.269
+      },
+      {
+        "name": "silver",
+        "hex": "#bda5a4",
+        "share": 0.253
+      },
+      {
+        "name": "black",
+        "hex": "#050404",
+        "share": 0.094
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:46"
+  },
+  {
+    "image_id": "dress_0012",
+    "path": "crops\\dress_0012.jpg",
+    "clothing_type": "jumpsuit",
+    "clothing_confidence": 0.3492,
+    "clothing_top_k": [
+      [
+        "jumpsuit",
+        0.3492
+      ],
+      [
+        "tracksuit",
+        0.265
+      ],
+      [
+        "leggings",
+        0.1302
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.4023,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#2b2a32",
+        "share": 0.644
+      },
+      {
+        "name": "grey",
+        "hex": "#5b636d",
+        "share": 0.356
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:46"
+  },
+  {
+    "image_id": "dress_0013",
+    "path": "crops\\dress_0013.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.8266,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.8266
+      ],
+      [
+        "jumpsuit",
+        0.0838
+      ],
+      [
+        "skirt",
+        0.0243
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.3019,
+    "primary_colour": "red",
+    "colours": [
+      {
+        "name": "red",
+        "hex": "#da021b",
+        "share": 0.538
+      },
+      {
+        "name": "black",
+        "hex": "#090406",
+        "share": 0.247
+      },
+      {
+        "name": "charcoal",
+        "hex": "#5f4453",
+        "share": 0.121
+      },
+      {
+        "name": "lavender",
+        "hex": "#bcb4d0",
+        "share": 0.095
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:46"
+  },
+  {
+    "image_id": "dress_0014",
+    "path": "crops\\dress_0014.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.8891,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.8891
+      ],
+      [
+        "jumpsuit",
+        0.0353
+      ],
+      [
+        "skirt",
+        0.0204
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.492,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#1b1616",
+        "share": 0.404
+      },
+      {
+        "name": "brown",
+        "hex": "#6d5849",
+        "share": 0.382
+      },
+      {
+        "name": "tan",
+        "hex": "#bf977b",
+        "share": 0.133
+      },
+      {
+        "name": "beige",
+        "hex": "#ebd6c2",
+        "share": 0.081
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:46"
+  },
+  {
+    "image_id": "dress_0015",
+    "path": "crops\\dress_0015.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.4934,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.4934
+      ],
+      [
+        "top",
+        0.2267
+      ],
+      [
+        "dress",
+        0.0802
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.4559,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#0b0703",
+        "share": 0.554
+      },
+      {
+        "name": "sand",
+        "hex": "#d2aa82",
+        "share": 0.208
+      },
+      {
+        "name": "brown",
+        "hex": "#5c442f",
+        "share": 0.133
+      },
+      {
+        "name": "tan",
+        "hex": "#956c48",
+        "share": 0.106
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:46"
+  },
+  {
+    "image_id": "jacket_0001",
+    "path": "crops\\jacket_0001.jpg",
+    "clothing_type": "hoodie",
+    "clothing_confidence": 0.1732,
+    "clothing_top_k": [
+      [
+        "hoodie",
+        0.1732
+      ],
+      [
+        "shirt",
+        0.1148
+      ],
+      [
+        "sweater",
+        0.1148
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.3728,
+    "primary_colour": "brown",
+    "colours": [
+      {
+        "name": "brown",
+        "hex": "#a1551a",
+        "share": 0.426
+      },
+      {
+        "name": "charcoal",
+        "hex": "#402a1f",
+        "share": 0.366
+      },
+      {
+        "name": "tan",
+        "hex": "#cd9b54",
+        "share": 0.115
+      },
+      {
+        "name": "cream",
+        "hex": "#e4dacd",
+        "share": 0.093
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:46"
+  },
+  {
+    "image_id": "jacket_0002",
+    "path": "crops\\jacket_0002.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.2252,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.2252
+      ],
+      [
+        "shirt",
+        0.1389
+      ],
+      [
+        "jacket",
+        0.1365
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.3971,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#dbd5dd",
+        "share": 0.356
+      },
+      {
+        "name": "grey",
+        "hex": "#aa9692",
+        "share": 0.229
+      },
+      {
+        "name": "black",
+        "hex": "#351f1f",
+        "share": 0.208
+      },
+      {
+        "name": "brown",
+        "hex": "#705348",
+        "share": 0.207
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:46"
+  },
+  {
+    "image_id": "jacket_0003",
+    "path": "crops\\jacket_0003.jpg",
+    "clothing_type": "jumpsuit",
+    "clothing_confidence": 0.4664,
+    "clothing_top_k": [
+      [
+        "jumpsuit",
+        0.4664
+      ],
+      [
+        "jacket",
+        0.1882
+      ],
+      [
+        "blouse",
+        0.1163
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.5205,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#232229",
+        "share": 0.35
+      },
+      {
+        "name": "charcoal",
+        "hex": "#4e4d58",
+        "share": 0.328
+      },
+      {
+        "name": "white",
+        "hex": "#e7e5e4",
+        "share": 0.207
+      },
+      {
+        "name": "silver",
+        "hex": "#a4a49f",
+        "share": 0.115
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:47"
+  },
+  {
+    "image_id": "jacket_0004",
+    "path": "crops\\jacket_0004.jpg",
+    "clothing_type": "jacket",
+    "clothing_confidence": 0.4446,
+    "clothing_top_k": [
+      [
+        "jacket",
+        0.4446
+      ],
+      [
+        "blazer",
+        0.259
+      ],
+      [
+        "coat",
+        0.1316
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3389,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#050505",
+        "share": 0.306
+      },
+      {
+        "name": "beige",
+        "hex": "#e9d3b8",
+        "share": 0.287
+      },
+      {
+        "name": "charcoal",
+        "hex": "#4f4241",
+        "share": 0.259
+      },
+      {
+        "name": "grey",
+        "hex": "#9a8578",
+        "share": 0.147
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:47"
+  },
+  {
+    "image_id": "jacket_0005",
+    "path": "crops\\jacket_0005.jpg",
+    "clothing_type": "jacket",
+    "clothing_confidence": 0.2153,
+    "clothing_top_k": [
+      [
+        "jacket",
+        0.2153
+      ],
+      [
+        "blouse",
+        0.1648
+      ],
+      [
+        "blazer",
+        0.1423
+      ]
+    ],
+    "pattern": "checked",
+    "pattern_confidence": 0.2505,
+    "primary_colour": "denim blue",
+    "colours": [
+      {
+        "name": "denim blue",
+        "hex": "#2d81b8",
+        "share": 0.316
+      },
+      {
+        "name": "charcoal",
+        "hex": "#0f3456",
+        "share": 0.295
+      },
+      {
+        "name": "silver",
+        "hex": "#bcbec2",
+        "share": 0.257
+      },
+      {
+        "name": "grey",
+        "hex": "#7e878f",
+        "share": 0.133
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:47"
+  },
+  {
+    "image_id": "jacket_0006",
+    "path": "crops\\jacket_0006.jpg",
+    "clothing_type": "blazer",
+    "clothing_confidence": 0.2939,
+    "clothing_top_k": [
+      [
+        "blazer",
+        0.2939
+      ],
+      [
+        "jacket",
+        0.2317
+      ],
+      [
+        "tracksuit",
+        0.1571
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3451,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#ebecf4",
+        "share": 0.491
+      },
+      {
+        "name": "grey",
+        "hex": "#77646f",
+        "share": 0.471
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:47"
+  },
+  {
+    "image_id": "jacket_0007",
+    "path": "crops\\jacket_0007.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.5614,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.5614
+      ],
+      [
+        "shirt",
+        0.2544
+      ],
+      [
+        "blouse",
+        0.0753
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.6433,
+    "primary_colour": "grey",
+    "colours": [
+      {
+        "name": "grey",
+        "hex": "#a999a7",
+        "share": 0.512
+      },
+      {
+        "name": "charcoal",
+        "hex": "#2c3a3d",
+        "share": 0.245
+      },
+      {
+        "name": "silver",
+        "hex": "#c4beca",
+        "share": 0.244
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:47"
+  },
+  {
+    "image_id": "jacket_0008",
+    "path": "crops\\jacket_0008.jpg",
+    "clothing_type": "jeans",
+    "clothing_confidence": 0.3268,
+    "clothing_top_k": [
+      [
+        "jeans",
+        0.3268
+      ],
+      [
+        "jacket",
+        0.2892
+      ],
+      [
+        "blazer",
+        0.0802
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3434,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#a3c1d1",
+        "share": 0.364
+      },
+      {
+        "name": "light blue",
+        "hex": "#6f9dbd",
+        "share": 0.253
+      },
+      {
+        "name": "black",
+        "hex": "#121618",
+        "share": 0.227
+      },
+      {
+        "name": "charcoal",
+        "hex": "#555e6b",
+        "share": 0.157
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:47"
+  },
+  {
+    "image_id": "jacket_0009",
+    "path": "crops\\jacket_0009.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.3812,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.3812
+      ],
+      [
+        "shirt",
+        0.2482
+      ],
+      [
+        "jacket",
+        0.213
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.5903,
+    "primary_colour": "grey",
+    "colours": [
+      {
+        "name": "grey",
+        "hex": "#a799ab",
+        "share": 0.529
+      },
+      {
+        "name": "silver",
+        "hex": "#c5bece",
+        "share": 0.257
+      },
+      {
+        "name": "charcoal",
+        "hex": "#2b383f",
+        "share": 0.214
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:47"
+  },
+  {
+    "image_id": "jacket_0010",
+    "path": "crops\\jacket_0010.jpg",
+    "clothing_type": "suit",
+    "clothing_confidence": 0.7114,
+    "clothing_top_k": [
+      [
+        "suit",
+        0.7114
+      ],
+      [
+        "blazer",
+        0.2238
+      ],
+      [
+        "shirt",
+        0.0195
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3613,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#152320",
+        "share": 0.51
+      },
+      {
+        "name": "silver",
+        "hex": "#b5b3ae",
+        "share": 0.234
+      },
+      {
+        "name": "olive",
+        "hex": "#866903",
+        "share": 0.131
+      },
+      {
+        "name": "grey",
+        "hex": "#79766a",
+        "share": 0.125
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:47"
+  },
+  {
+    "image_id": "jacket_0011",
+    "path": "crops\\jacket_0011.jpg",
+    "clothing_type": "blazer",
+    "clothing_confidence": 0.471,
+    "clothing_top_k": [
+      [
+        "blazer",
+        0.471
+      ],
+      [
+        "blouse",
+        0.1019
+      ],
+      [
+        "coat",
+        0.0832
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.1892,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#dfd6d9",
+        "share": 0.499
+      },
+      {
+        "name": "red",
+        "hex": "#c2452e",
+        "share": 0.253
+      },
+      {
+        "name": "blue",
+        "hex": "#0846bb",
+        "share": 0.146
+      },
+      {
+        "name": "black",
+        "hex": "#24110e",
+        "share": 0.102
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:49"
+  },
+  {
+    "image_id": "jacket_0012",
+    "path": "crops\\jacket_0012.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.2409,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.2409
+      ],
+      [
+        "blazer",
+        0.1845
+      ],
+      [
+        "jacket",
+        0.1816
+      ]
+    ],
+    "pattern": "polka dot",
+    "pattern_confidence": 0.1953,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#332629",
+        "share": 0.526
+      },
+      {
+        "name": "grey",
+        "hex": "#797685",
+        "share": 0.188
+      },
+      {
+        "name": "sand",
+        "hex": "#dfaa92",
+        "share": 0.165
+      },
+      {
+        "name": "silver",
+        "hex": "#d2d0dd",
+        "share": 0.121
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:49"
+  },
+  {
+    "image_id": "jacket_0013",
+    "path": "crops\\jacket_0013.jpg",
+    "clothing_type": "jacket",
+    "clothing_confidence": 0.8609,
+    "clothing_top_k": [
+      [
+        "jacket",
+        0.8609
+      ],
+      [
+        "blouse",
+        0.0369
+      ],
+      [
+        "jeans",
+        0.0335
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.5921,
+    "primary_colour": "grey",
+    "colours": [
+      {
+        "name": "grey",
+        "hex": "#596064",
+        "share": 0.421
+      },
+      {
+        "name": "charcoal",
+        "hex": "#41494d",
+        "share": 0.309
+      },
+      {
+        "name": "silver",
+        "hex": "#9faaa7",
+        "share": 0.271
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:49"
+  },
+  {
+    "image_id": "jacket_0014",
+    "path": "crops\\jacket_0014.jpg",
+    "clothing_type": "blazer",
+    "clothing_confidence": 0.5289,
+    "clothing_top_k": [
+      [
+        "blazer",
+        0.5289
+      ],
+      [
+        "suit",
+        0.2319
+      ],
+      [
+        "jacket",
+        0.1399
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2837,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#c6c5cd",
+        "share": 0.434
+      },
+      {
+        "name": "charcoal",
+        "hex": "#32323b",
+        "share": 0.276
+      },
+      {
+        "name": "grey",
+        "hex": "#8d8b93",
+        "share": 0.188
+      },
+      {
+        "name": "white",
+        "hex": "#f6f2eb",
+        "share": 0.102
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:49"
+  },
+  {
+    "image_id": "jacket_0015",
+    "path": "crops\\jacket_0015.jpg",
+    "clothing_type": "shirt",
+    "clothing_confidence": 0.411,
+    "clothing_top_k": [
+      [
+        "shirt",
+        0.411
+      ],
+      [
+        "t-shirt",
+        0.2977
+      ],
+      [
+        "top",
+        0.0869
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.439,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#282728",
+        "share": 0.312
+      },
+      {
+        "name": "grey",
+        "hex": "#888c97",
+        "share": 0.271
+      },
+      {
+        "name": "denim blue",
+        "hex": "#405c75",
+        "share": 0.219
+      },
+      {
+        "name": "silver",
+        "hex": "#c8cada",
+        "share": 0.197
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:49"
+  },
+  {
+    "image_id": "jumpsuit_0001",
+    "path": "crops\\jumpsuit_0001.jpg",
+    "clothing_type": "jumpsuit",
+    "clothing_confidence": 0.5502,
+    "clothing_top_k": [
+      [
+        "jumpsuit",
+        0.5502
+      ],
+      [
+        "leggings",
+        0.1837
+      ],
+      [
+        "dress",
+        0.0817
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.3671,
+    "primary_colour": "lavender",
+    "colours": [
+      {
+        "name": "lavender",
+        "hex": "#b885ab",
+        "share": 0.455
+      },
+      {
+        "name": "charcoal",
+        "hex": "#67544e",
+        "share": 0.262
+      },
+      {
+        "name": "grey",
+        "hex": "#978279",
+        "share": 0.23
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:49"
+  },
+  {
+    "image_id": "jumpsuit_0002",
+    "path": "crops\\jumpsuit_0002.jpg",
+    "clothing_type": "shirt",
+    "clothing_confidence": 0.2804,
+    "clothing_top_k": [
+      [
+        "shirt",
+        0.2804
+      ],
+      [
+        "blouse",
+        0.1932
+      ],
+      [
+        "dress",
+        0.1817
+      ]
+    ],
+    "pattern": "floral",
+    "pattern_confidence": 0.794,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#343433",
+        "share": 0.446
+      },
+      {
+        "name": "grey",
+        "hex": "#b6998f",
+        "share": 0.404
+      },
+      {
+        "name": "silver",
+        "hex": "#e1cec8",
+        "share": 0.15
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:49"
+  },
+  {
+    "image_id": "jumpsuit_0003",
+    "path": "crops\\jumpsuit_0003.jpg",
+    "clothing_type": "tracksuit",
+    "clothing_confidence": 0.434,
+    "clothing_top_k": [
+      [
+        "tracksuit",
+        0.434
+      ],
+      [
+        "jumpsuit",
+        0.3763
+      ],
+      [
+        "leggings",
+        0.0608
+      ]
+    ],
+    "pattern": "animal print",
+    "pattern_confidence": 0.2335,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#1e1917",
+        "share": 0.96
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:49"
+  },
+  {
+    "image_id": "jumpsuit_0004",
+    "path": "crops\\jumpsuit_0004.jpg",
+    "clothing_type": "jumpsuit",
+    "clothing_confidence": 0.4731,
+    "clothing_top_k": [
+      [
+        "jumpsuit",
+        0.4731
+      ],
+      [
+        "blouse",
+        0.1807
+      ],
+      [
+        "dress",
+        0.0773
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.7336,
+    "primary_colour": "sand",
+    "colours": [
+      {
+        "name": "sand",
+        "hex": "#e6ad9d",
+        "share": 0.383
+      },
+      {
+        "name": "black",
+        "hex": "#181718",
+        "share": 0.235
+      },
+      {
+        "name": "white",
+        "hex": "#f1e7e0",
+        "share": 0.225
+      },
+      {
+        "name": "grey",
+        "hex": "#8c6a5f",
+        "share": 0.157
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:50"
+  },
+  {
+    "image_id": "jumpsuit_0005",
+    "path": "crops\\jumpsuit_0005.jpg",
+    "clothing_type": "jumpsuit",
+    "clothing_confidence": 0.4557,
+    "clothing_top_k": [
+      [
+        "jumpsuit",
+        0.4557
+      ],
+      [
+        "trousers",
+        0.2011
+      ],
+      [
+        "blouse",
+        0.1784
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4842,
+    "primary_colour": "brown",
+    "colours": [
+      {
+        "name": "brown",
+        "hex": "#4d3729",
+        "share": 0.598
+      },
+      {
+        "name": "black",
+        "hex": "#382118",
+        "share": 0.216
+      },
+      {
+        "name": "silver",
+        "hex": "#e1d1c9",
+        "share": 0.1
+      },
+      {
+        "name": "tan",
+        "hex": "#bb896d",
+        "share": 0.086
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:50"
+  },
+  {
+    "image_id": "jumpsuit_0006",
+    "path": "crops\\jumpsuit_0006.jpg",
+    "clothing_type": "tracksuit",
+    "clothing_confidence": 0.3172,
+    "clothing_top_k": [
+      [
+        "tracksuit",
+        0.3172
+      ],
+      [
+        "jumpsuit",
+        0.3162
+      ],
+      [
+        "jacket",
+        0.1128
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.3909,
+    "primary_colour": "denim blue",
+    "colours": [
+      {
+        "name": "denim blue",
+        "hex": "#646f88",
+        "share": 0.499
+      },
+      {
+        "name": "black",
+        "hex": "#0a0c10",
+        "share": 0.215
+      },
+      {
+        "name": "grey",
+        "hex": "#828eac",
+        "share": 0.167
+      },
+      {
+        "name": "charcoal",
+        "hex": "#282f3b",
+        "share": 0.119
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:50"
+  },
+  {
+    "image_id": "jumpsuit_0007",
+    "path": "crops\\jumpsuit_0007.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.5627,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.5627
+      ],
+      [
+        "trousers",
+        0.1685
+      ],
+      [
+        "leggings",
+        0.1536
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.4299,
+    "primary_colour": "brown",
+    "colours": [
+      {
+        "name": "brown",
+        "hex": "#8b623e",
+        "share": 0.284
+      },
+      {
+        "name": "grey",
+        "hex": "#ab9684",
+        "share": 0.261
+      },
+      {
+        "name": "denim blue",
+        "hex": "#656d8e",
+        "share": 0.237
+      },
+      {
+        "name": "white",
+        "hex": "#e4dfdc",
+        "share": 0.218
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:50"
+  },
+  {
+    "image_id": "jumpsuit_0008",
+    "path": "crops\\jumpsuit_0008.jpg",
+    "clothing_type": "saree",
+    "clothing_confidence": 0.3343,
+    "clothing_top_k": [
+      [
+        "saree",
+        0.3343
+      ],
+      [
+        "skirt",
+        0.1772
+      ],
+      [
+        "kurta",
+        0.1199
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.5643,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#6e524f",
+        "share": 0.396
+      },
+      {
+        "name": "black",
+        "hex": "#231414",
+        "share": 0.348
+      },
+      {
+        "name": "grey",
+        "hex": "#856761",
+        "share": 0.189
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:50"
+  },
+  {
+    "image_id": "jumpsuit_0009",
+    "path": "crops\\jumpsuit_0009.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.3303,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.3303
+      ],
+      [
+        "top",
+        0.2202
+      ],
+      [
+        "dress",
+        0.1307
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2489,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#f8f5ec",
+        "share": 0.481
+      },
+      {
+        "name": "black",
+        "hex": "#1c1214",
+        "share": 0.329
+      },
+      {
+        "name": "sand",
+        "hex": "#e6c09d",
+        "share": 0.18
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:50"
+  },
+  {
+    "image_id": "jumpsuit_0010",
+    "path": "crops\\jumpsuit_0010.jpg",
+    "clothing_type": "trousers",
+    "clothing_confidence": 0.3833,
+    "clothing_top_k": [
+      [
+        "trousers",
+        0.3833
+      ],
+      [
+        "blouse",
+        0.1891
+      ],
+      [
+        "leggings",
+        0.179
+      ]
+    ],
+    "pattern": "paisley",
+    "pattern_confidence": 0.2357,
+    "primary_colour": "cream",
+    "colours": [
+      {
+        "name": "cream",
+        "hex": "#efe0cf",
+        "share": 0.45
+      },
+      {
+        "name": "sand",
+        "hex": "#b39f89",
+        "share": 0.257
+      },
+      {
+        "name": "grey",
+        "hex": "#867563",
+        "share": 0.224
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:50"
+  },
+  {
+    "image_id": "jumpsuit_0011",
+    "path": "crops\\jumpsuit_0011.jpg",
+    "clothing_type": "lehenga",
+    "clothing_confidence": 0.74,
+    "clothing_top_k": [
+      [
+        "lehenga",
+        0.74
+      ],
+      [
+        "saree",
+        0.2045
+      ],
+      [
+        "blouse",
+        0.0138
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.3119,
+    "primary_colour": "brown",
+    "colours": [
+      {
+        "name": "brown",
+        "hex": "#5d3e28",
+        "share": 0.535
+      },
+      {
+        "name": "tan",
+        "hex": "#837052",
+        "share": 0.221
+      },
+      {
+        "name": "black",
+        "hex": "#010101",
+        "share": 0.143
+      },
+      {
+        "name": "sand",
+        "hex": "#c7b48d",
+        "share": 0.1
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:50"
+  },
+  {
+    "image_id": "jumpsuit_0012",
+    "path": "crops\\jumpsuit_0012.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.2767,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.2767
+      ],
+      [
+        "jumpsuit",
+        0.2566
+      ],
+      [
+        "trousers",
+        0.1897
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.461,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#201f1d",
+        "share": 0.934
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:51"
+  },
+  {
+    "image_id": "jumpsuit_0013",
+    "path": "crops\\jumpsuit_0013.jpg",
+    "clothing_type": "trousers",
+    "clothing_confidence": 0.4565,
+    "clothing_top_k": [
+      [
+        "trousers",
+        0.4565
+      ],
+      [
+        "jumpsuit",
+        0.1929
+      ],
+      [
+        "leggings",
+        0.1146
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3871,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#201f25",
+        "share": 0.557
+      },
+      {
+        "name": "charcoal",
+        "hex": "#2b2a30",
+        "share": 0.443
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:51"
+  },
+  {
+    "image_id": "jumpsuit_0014",
+    "path": "crops\\jumpsuit_0014.jpg",
+    "clothing_type": "suit",
+    "clothing_confidence": 0.2054,
+    "clothing_top_k": [
+      [
+        "suit",
+        0.2054
+      ],
+      [
+        "blazer",
+        0.1466
+      ],
+      [
+        "coat",
+        0.1462
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2898,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#151515",
+        "share": 1.0
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:51"
+  },
+  {
+    "image_id": "jumpsuit_0015",
+    "path": "crops\\jumpsuit_0015.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.4166,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.4166
+      ],
+      [
+        "jumpsuit",
+        0.2994
+      ],
+      [
+        "suit",
+        0.0555
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4822,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#ede7e7",
+        "share": 0.598
+      },
+      {
+        "name": "silver",
+        "hex": "#e1d8d8",
+        "share": 0.393
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:51"
+  },
+  {
+    "image_id": "pants_0001",
+    "path": "crops\\pants_0001.jpg",
+    "clothing_type": "trousers",
+    "clothing_confidence": 0.2457,
+    "clothing_top_k": [
+      [
+        "trousers",
+        0.2457
+      ],
+      [
+        "suit",
+        0.1682
+      ],
+      [
+        "skirt",
+        0.1234
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.575,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#edeef2",
+        "share": 0.33
+      },
+      {
+        "name": "black",
+        "hex": "#1a1c21",
+        "share": 0.316
+      },
+      {
+        "name": "silver",
+        "hex": "#c0a8a1",
+        "share": 0.229
+      },
+      {
+        "name": "grey",
+        "hex": "#736b69",
+        "share": 0.125
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:51"
+  },
+  {
+    "image_id": "pants_0002",
+    "path": "crops\\pants_0002.jpg",
+    "clothing_type": "jeans",
+    "clothing_confidence": 0.5476,
+    "clothing_top_k": [
+      [
+        "jeans",
+        0.5476
+      ],
+      [
+        "leggings",
+        0.1433
+      ],
+      [
+        "shorts",
+        0.0638
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3189,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#9dbdcd",
+        "share": 0.471
+      },
+      {
+        "name": "tan",
+        "hex": "#cc9674",
+        "share": 0.274
+      },
+      {
+        "name": "grey",
+        "hex": "#6e605a",
+        "share": 0.165
+      },
+      {
+        "name": "black",
+        "hex": "#121312",
+        "share": 0.09
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:51"
+  },
+  {
+    "image_id": "pants_0003",
+    "path": "crops\\pants_0003.jpg",
+    "clothing_type": "leggings",
+    "clothing_confidence": 0.2835,
+    "clothing_top_k": [
+      [
+        "leggings",
+        0.2835
+      ],
+      [
+        "trousers",
+        0.2556
+      ],
+      [
+        "jumpsuit",
+        0.2119
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.6204,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#464b4f",
+        "share": 0.459
+      },
+      {
+        "name": "black",
+        "hex": "#03070e",
+        "share": 0.37
+      },
+      {
+        "name": "silver",
+        "hex": "#d1c8bf",
+        "share": 0.091
+      },
+      {
+        "name": "grey",
+        "hex": "#847d7c",
+        "share": 0.08
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:51"
+  },
+  {
+    "image_id": "pants_0004",
+    "path": "crops\\pants_0004.jpg",
+    "clothing_type": "jeans",
+    "clothing_confidence": 0.4524,
+    "clothing_top_k": [
+      [
+        "jeans",
+        0.4524
+      ],
+      [
+        "leggings",
+        0.1596
+      ],
+      [
+        "blouse",
+        0.1339
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3019,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#131212",
+        "share": 0.461
+      },
+      {
+        "name": "charcoal",
+        "hex": "#43556a",
+        "share": 0.24
+      },
+      {
+        "name": "denim blue",
+        "hex": "#586f88",
+        "share": 0.234
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:51"
+  },
+  {
+    "image_id": "pants_0005",
+    "path": "crops\\pants_0005.jpg",
+    "clothing_type": "leggings",
+    "clothing_confidence": 0.4892,
+    "clothing_top_k": [
+      [
+        "leggings",
+        0.4892
+      ],
+      [
+        "trousers",
+        0.1402
+      ],
+      [
+        "jumpsuit",
+        0.1098
+      ]
+    ],
+    "pattern": "animal print",
+    "pattern_confidence": 0.3021,
+    "primary_colour": "brown",
+    "colours": [
+      {
+        "name": "brown",
+        "hex": "#432a1b",
+        "share": 0.433
+      },
+      {
+        "name": "red",
+        "hex": "#b93f37",
+        "share": 0.239
+      },
+      {
+        "name": "tan",
+        "hex": "#8b8263",
+        "share": 0.175
+      },
+      {
+        "name": "beige",
+        "hex": "#d5c4b4",
+        "share": 0.153
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:53"
+  },
+  {
+    "image_id": "pants_0006",
+    "path": "crops\\pants_0006.jpg",
+    "clothing_type": "jeans",
+    "clothing_confidence": 0.7399,
+    "clothing_top_k": [
+      [
+        "jeans",
+        0.7399
+      ],
+      [
+        "leggings",
+        0.1424
+      ],
+      [
+        "trousers",
+        0.0607
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4409,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#263a4d",
+        "share": 0.826
+      },
+      {
+        "name": "grey",
+        "hex": "#ab8988",
+        "share": 0.104
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:53"
+  },
+  {
+    "image_id": "pants_0007",
+    "path": "crops\\pants_0007.jpg",
+    "clothing_type": "leggings",
+    "clothing_confidence": 0.1954,
+    "clothing_top_k": [
+      [
+        "leggings",
+        0.1954
+      ],
+      [
+        "trousers",
+        0.1412
+      ],
+      [
+        "jeans",
+        0.1219
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2427,
+    "primary_colour": "grey",
+    "colours": [
+      {
+        "name": "grey",
+        "hex": "#827164",
+        "share": 0.518
+      },
+      {
+        "name": "brown",
+        "hex": "#5b4a38",
+        "share": 0.266
+      },
+      {
+        "name": "silver",
+        "hex": "#babbbd",
+        "share": 0.215
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:53"
+  },
+  {
+    "image_id": "pants_0008",
+    "path": "crops\\pants_0008.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.1761,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.1761
+      ],
+      [
+        "jeans",
+        0.1521
+      ],
+      [
+        "shorts",
+        0.1503
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2763,
+    "primary_colour": "sand",
+    "colours": [
+      {
+        "name": "sand",
+        "hex": "#e3b48b",
+        "share": 0.332
+      },
+      {
+        "name": "brown",
+        "hex": "#533d1b",
+        "share": 0.311
+      },
+      {
+        "name": "tan",
+        "hex": "#b67b54",
+        "share": 0.209
+      },
+      {
+        "name": "black",
+        "hex": "#05050f",
+        "share": 0.149
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:53"
+  },
+  {
+    "image_id": "pants_0009",
+    "path": "crops\\pants_0009.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.5858,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.5858
+      ],
+      [
+        "hoodie",
+        0.0947
+      ],
+      [
+        "coat",
+        0.0647
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.2441,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#d4d6d6",
+        "share": 0.395
+      },
+      {
+        "name": "black",
+        "hex": "#242222",
+        "share": 0.338
+      },
+      {
+        "name": "maroon",
+        "hex": "#673437",
+        "share": 0.149
+      },
+      {
+        "name": "grey",
+        "hex": "#989094",
+        "share": 0.118
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:53"
+  },
+  {
+    "image_id": "pants_0010",
+    "path": "crops\\pants_0010.jpg",
+    "clothing_type": "jeans",
+    "clothing_confidence": 0.3662,
+    "clothing_top_k": [
+      [
+        "jeans",
+        0.3662
+      ],
+      [
+        "trousers",
+        0.2052
+      ],
+      [
+        "shorts",
+        0.086
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3392,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#28302e",
+        "share": 0.474
+      },
+      {
+        "name": "olive",
+        "hex": "#6d7b42",
+        "share": 0.367
+      },
+      {
+        "name": "grey",
+        "hex": "#737482",
+        "share": 0.14
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:53"
+  },
+  {
+    "image_id": "pants_0011",
+    "path": "crops\\pants_0011.jpg",
+    "clothing_type": "trousers",
+    "clothing_confidence": 0.305,
+    "clothing_top_k": [
+      [
+        "trousers",
+        0.305
+      ],
+      [
+        "suit",
+        0.2065
+      ],
+      [
+        "jumpsuit",
+        0.1697
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.7024,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#2a3a4a",
+        "share": 0.763
+      },
+      {
+        "name": "silver",
+        "hex": "#d7d4dc",
+        "share": 0.131
+      },
+      {
+        "name": "grey",
+        "hex": "#8f8789",
+        "share": 0.106
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:53"
+  },
+  {
+    "image_id": "pants_0012",
+    "path": "crops\\pants_0012.jpg",
+    "clothing_type": "tracksuit",
+    "clothing_confidence": 0.4907,
+    "clothing_top_k": [
+      [
+        "tracksuit",
+        0.4907
+      ],
+      [
+        "trousers",
+        0.131
+      ],
+      [
+        "hoodie",
+        0.1261
+      ]
+    ],
+    "pattern": "camouflage",
+    "pattern_confidence": 0.2433,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#1f2126",
+        "share": 0.66
+      },
+      {
+        "name": "denim blue",
+        "hex": "#475670",
+        "share": 0.244
+      },
+      {
+        "name": "grey",
+        "hex": "#989096",
+        "share": 0.096
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:53"
+  },
+  {
+    "image_id": "pants_0013",
+    "path": "crops\\pants_0013.jpg",
+    "clothing_type": "trousers",
+    "clothing_confidence": 0.3201,
+    "clothing_top_k": [
+      [
+        "trousers",
+        0.3201
+      ],
+      [
+        "leggings",
+        0.3168
+      ],
+      [
+        "jeans",
+        0.085
+      ]
+    ],
+    "pattern": "checked",
+    "pattern_confidence": 0.2136,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#091526",
+        "share": 0.643
+      },
+      {
+        "name": "silver",
+        "hex": "#c8d3ed",
+        "share": 0.167
+      },
+      {
+        "name": "light blue",
+        "hex": "#90a7d3",
+        "share": 0.13
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:54"
+  },
+  {
+    "image_id": "pants_0014",
+    "path": "crops\\pants_0014.jpg",
+    "clothing_type": "trousers",
+    "clothing_confidence": 0.2086,
+    "clothing_top_k": [
+      [
+        "trousers",
+        0.2086
+      ],
+      [
+        "shorts",
+        0.1515
+      ],
+      [
+        "jeans",
+        0.0894
+      ]
+    ],
+    "pattern": "tie-dye",
+    "pattern_confidence": 0.5676,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#201e23",
+        "share": 0.799
+      },
+      {
+        "name": "charcoal",
+        "hex": "#4a2a32",
+        "share": 0.197
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:54"
+  },
+  {
+    "image_id": "pants_0015",
+    "path": "crops\\pants_0015.jpg",
+    "clothing_type": "leggings",
+    "clothing_confidence": 0.6678,
+    "clothing_top_k": [
+      [
+        "leggings",
+        0.6678
+      ],
+      [
+        "trousers",
+        0.2432
+      ],
+      [
+        "jacket",
+        0.0165
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.3037,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#140e0e",
+        "share": 0.386
+      },
+      {
+        "name": "brown",
+        "hex": "#724242",
+        "share": 0.378
+      },
+      {
+        "name": "grey",
+        "hex": "#736360",
+        "share": 0.235
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:54"
+  },
+  {
+    "image_id": "shirt_0001",
+    "path": "crops\\shirt_0001.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.7085,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.7085
+      ],
+      [
+        "top",
+        0.1213
+      ],
+      [
+        "shirt",
+        0.0534
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.289,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#e1e3ea",
+        "share": 0.405
+      },
+      {
+        "name": "grey",
+        "hex": "#75655b",
+        "share": 0.231
+      },
+      {
+        "name": "silver",
+        "hex": "#b9aca8",
+        "share": 0.224
+      },
+      {
+        "name": "charcoal",
+        "hex": "#352820",
+        "share": 0.14
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:54"
+  },
+  {
+    "image_id": "shirt_0002",
+    "path": "crops\\shirt_0002.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.2639,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.2639
+      ],
+      [
+        "shorts",
+        0.1982
+      ],
+      [
+        "top",
+        0.1932
+      ]
+    ],
+    "pattern": "striped",
+    "pattern_confidence": 0.3818,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#262728",
+        "share": 0.416
+      },
+      {
+        "name": "silver",
+        "hex": "#d5d5d2",
+        "share": 0.268
+      },
+      {
+        "name": "grey",
+        "hex": "#8d8882",
+        "share": 0.179
+      },
+      {
+        "name": "charcoal",
+        "hex": "#414548",
+        "share": 0.136
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:54"
+  },
+  {
+    "image_id": "shirt_0003",
+    "path": "crops\\shirt_0003.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.6204,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.6204
+      ],
+      [
+        "top",
+        0.1186
+      ],
+      [
+        "shirt",
+        0.0603
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.5044,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#dddee0",
+        "share": 0.623
+      },
+      {
+        "name": "silver",
+        "hex": "#cacacb",
+        "share": 0.276
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:54"
+  },
+  {
+    "image_id": "shirt_0004",
+    "path": "crops\\shirt_0004.jpg",
+    "clothing_type": "jacket",
+    "clothing_confidence": 0.2303,
+    "clothing_top_k": [
+      [
+        "jacket",
+        0.2303
+      ],
+      [
+        "shirt",
+        0.2083
+      ],
+      [
+        "blouse",
+        0.0906
+      ]
+    ],
+    "pattern": "checked",
+    "pattern_confidence": 0.882,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#4c5556",
+        "share": 0.539
+      },
+      {
+        "name": "brown",
+        "hex": "#854a4b",
+        "share": 0.306
+      },
+      {
+        "name": "tan",
+        "hex": "#b07a6e",
+        "share": 0.155
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:54"
+  },
+  {
+    "image_id": "shirt_0005",
+    "path": "crops\\shirt_0005.jpg",
+    "clothing_type": "blazer",
+    "clothing_confidence": 0.4085,
+    "clothing_top_k": [
+      [
+        "blazer",
+        0.4085
+      ],
+      [
+        "suit",
+        0.2897
+      ],
+      [
+        "jacket",
+        0.1646
+      ]
+    ],
+    "pattern": "paisley",
+    "pattern_confidence": 0.308,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#54565e",
+        "share": 0.528
+      },
+      {
+        "name": "silver",
+        "hex": "#d5d4d8",
+        "share": 0.472
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:54"
+  },
+  {
+    "image_id": "shirt_0006",
+    "path": "crops\\shirt_0006.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.7301,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.7301
+      ],
+      [
+        "top",
+        0.0848
+      ],
+      [
+        "shirt",
+        0.06
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4584,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#f1f4f8",
+        "share": 0.492
+      },
+      {
+        "name": "black",
+        "hex": "#1b1c21",
+        "share": 0.258
+      },
+      {
+        "name": "silver",
+        "hex": "#c2b5b6",
+        "share": 0.161
+      },
+      {
+        "name": "grey",
+        "hex": "#9e847b",
+        "share": 0.089
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:55"
+  },
+  {
+    "image_id": "shirt_0007",
+    "path": "crops\\shirt_0007.jpg",
+    "clothing_type": "shirt",
+    "clothing_confidence": 0.2846,
+    "clothing_top_k": [
+      [
+        "shirt",
+        0.2846
+      ],
+      [
+        "kurta",
+        0.2154
+      ],
+      [
+        "jeans",
+        0.1339
+      ]
+    ],
+    "pattern": "checked",
+    "pattern_confidence": 0.5576,
+    "primary_colour": "denim blue",
+    "colours": [
+      {
+        "name": "denim blue",
+        "hex": "#777aa0",
+        "share": 0.28
+      },
+      {
+        "name": "black",
+        "hex": "#111932",
+        "share": 0.273
+      },
+      {
+        "name": "charcoal",
+        "hex": "#3b455a",
+        "share": 0.245
+      },
+      {
+        "name": "light blue",
+        "hex": "#b0b3d1",
+        "share": 0.202
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:55"
+  },
+  {
+    "image_id": "shirt_0008",
+    "path": "crops\\shirt_0008.jpg",
+    "clothing_type": "jacket",
+    "clothing_confidence": 0.2422,
+    "clothing_top_k": [
+      [
+        "jacket",
+        0.2422
+      ],
+      [
+        "shirt",
+        0.1104
+      ],
+      [
+        "suit",
+        0.0988
+      ]
+    ],
+    "pattern": "tie-dye",
+    "pattern_confidence": 0.2147,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#d2ddf5",
+        "share": 0.768
+      },
+      {
+        "name": "charcoal",
+        "hex": "#2e2d34",
+        "share": 0.15
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:55"
+  },
+  {
+    "image_id": "shirt_0009",
+    "path": "crops\\shirt_0009.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.42,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.42
+      ],
+      [
+        "top",
+        0.2474
+      ],
+      [
+        "jeans",
+        0.0784
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4465,
+    "primary_colour": "denim blue",
+    "colours": [
+      {
+        "name": "denim blue",
+        "hex": "#4a729b",
+        "share": 0.404
+      },
+      {
+        "name": "charcoal",
+        "hex": "#374e60",
+        "share": 0.333
+      },
+      {
+        "name": "sand",
+        "hex": "#aeab86",
+        "share": 0.182
+      },
+      {
+        "name": "cream",
+        "hex": "#e6d9c6",
+        "share": 0.081
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:55"
+  },
+  {
+    "image_id": "shirt_0010",
+    "path": "crops\\shirt_0010.jpg",
+    "clothing_type": "jacket",
+    "clothing_confidence": 0.4484,
+    "clothing_top_k": [
+      [
+        "jacket",
+        0.4484
+      ],
+      [
+        "blouse",
+        0.2706
+      ],
+      [
+        "blazer",
+        0.1851
+      ]
+    ],
+    "pattern": "checked",
+    "pattern_confidence": 0.5799,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#282324",
+        "share": 0.305
+      },
+      {
+        "name": "denim blue",
+        "hex": "#707e9d",
+        "share": 0.275
+      },
+      {
+        "name": "light blue",
+        "hex": "#899ec3",
+        "share": 0.232
+      },
+      {
+        "name": "charcoal",
+        "hex": "#5a5767",
+        "share": 0.188
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:56"
+  },
+  {
+    "image_id": "shirt_0011",
+    "path": "crops\\shirt_0011.jpg",
+    "clothing_type": "shirt",
+    "clothing_confidence": 0.1961,
+    "clothing_top_k": [
+      [
+        "shirt",
+        0.1961
+      ],
+      [
+        "jacket",
+        0.193
+      ],
+      [
+        "jumpsuit",
+        0.1143
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.248,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#495a6f",
+        "share": 0.618
+      },
+      {
+        "name": "brown",
+        "hex": "#855847",
+        "share": 0.201
+      },
+      {
+        "name": "grey",
+        "hex": "#aa8983",
+        "share": 0.182
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:56"
+  },
+  {
+    "image_id": "shirt_0012",
+    "path": "crops\\shirt_0012.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.3794,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.3794
+      ],
+      [
+        "jacket",
+        0.1806
+      ],
+      [
+        "shirt",
+        0.0927
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.2299,
+    "primary_colour": "red",
+    "colours": [
+      {
+        "name": "red",
+        "hex": "#c33e53",
+        "share": 0.555
+      },
+      {
+        "name": "maroon",
+        "hex": "#6c2c2f",
+        "share": 0.187
+      },
+      {
+        "name": "beige",
+        "hex": "#d3b6a1",
+        "share": 0.147
+      },
+      {
+        "name": "grey",
+        "hex": "#907e78",
+        "share": 0.111
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:56"
+  },
+  {
+    "image_id": "shirt_0013",
+    "path": "crops\\shirt_0013.jpg",
+    "clothing_type": "jacket",
+    "clothing_confidence": 0.4901,
+    "clothing_top_k": [
+      [
+        "jacket",
+        0.4901
+      ],
+      [
+        "blazer",
+        0.2558
+      ],
+      [
+        "coat",
+        0.1828
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.2295,
+    "primary_colour": "brown",
+    "colours": [
+      {
+        "name": "brown",
+        "hex": "#4a3325",
+        "share": 0.841
+      },
+      {
+        "name": "black",
+        "hex": "#28170e",
+        "share": 0.107
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:56"
+  },
+  {
+    "image_id": "shirt_0014",
+    "path": "crops\\shirt_0014.jpg",
+    "clothing_type": "shirt",
+    "clothing_confidence": 0.4592,
+    "clothing_top_k": [
+      [
+        "shirt",
+        0.4592
+      ],
+      [
+        "kurta",
+        0.1887
+      ],
+      [
+        "t-shirt",
+        0.1168
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3126,
+    "primary_colour": "grey",
+    "colours": [
+      {
+        "name": "grey",
+        "hex": "#6d636e",
+        "share": 0.626
+      },
+      {
+        "name": "silver",
+        "hex": "#cfd5d9",
+        "share": 0.374
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:57"
+  },
+  {
+    "image_id": "shirt_0015",
+    "path": "crops\\shirt_0015.jpg",
+    "clothing_type": "shirt",
+    "clothing_confidence": 0.1871,
+    "clothing_top_k": [
+      [
+        "shirt",
+        0.1871
+      ],
+      [
+        "top",
+        0.1175
+      ],
+      [
+        "jacket",
+        0.1122
+      ]
+    ],
+    "pattern": "checked",
+    "pattern_confidence": 0.3091,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#e2dfe1",
+        "share": 0.614
+      },
+      {
+        "name": "grey",
+        "hex": "#928f95",
+        "share": 0.285
+      },
+      {
+        "name": "black",
+        "hex": "#1c1c27",
+        "share": 0.101
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:57"
+  },
+  {
+    "image_id": "shorts_0001",
+    "path": "crops\\shorts_0001.jpg",
+    "clothing_type": "shorts",
+    "clothing_confidence": 0.6727,
+    "clothing_top_k": [
+      [
+        "shorts",
+        0.6727
+      ],
+      [
+        "trousers",
+        0.0966
+      ],
+      [
+        "skirt",
+        0.0795
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2979,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#071215",
+        "share": 0.687
+      },
+      {
+        "name": "silver",
+        "hex": "#cfa39a",
+        "share": 0.247
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:57"
+  },
+  {
+    "image_id": "shorts_0002",
+    "path": "crops\\shorts_0002.jpg",
+    "clothing_type": "shorts",
+    "clothing_confidence": 0.927,
+    "clothing_top_k": [
+      [
+        "shorts",
+        0.927
+      ],
+      [
+        "skirt",
+        0.0644
+      ],
+      [
+        "trousers",
+        0.0055
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.7498,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#08070c",
+        "share": 0.649
+      },
+      {
+        "name": "charcoal",
+        "hex": "#423f44",
+        "share": 0.183
+      },
+      {
+        "name": "white",
+        "hex": "#efeff0",
+        "share": 0.122
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:57"
+  },
+  {
+    "image_id": "shorts_0003",
+    "path": "crops\\shorts_0003.jpg",
+    "clothing_type": "shorts",
+    "clothing_confidence": 0.6123,
+    "clothing_top_k": [
+      [
+        "shorts",
+        0.6123
+      ],
+      [
+        "jeans",
+        0.2266
+      ],
+      [
+        "skirt",
+        0.1139
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.2674,
+    "primary_colour": "grey",
+    "colours": [
+      {
+        "name": "grey",
+        "hex": "#949ea1",
+        "share": 0.537
+      },
+      {
+        "name": "charcoal",
+        "hex": "#59585b",
+        "share": 0.252
+      },
+      {
+        "name": "tan",
+        "hex": "#b59a78",
+        "share": 0.134
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:57"
+  },
+  {
+    "image_id": "shorts_0004",
+    "path": "crops\\shorts_0004.jpg",
+    "clothing_type": "shorts",
+    "clothing_confidence": 0.8873,
+    "clothing_top_k": [
+      [
+        "shorts",
+        0.8873
+      ],
+      [
+        "jeans",
+        0.0729
+      ],
+      [
+        "skirt",
+        0.0187
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.298,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#151516",
+        "share": 0.846
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:57"
+  },
+  {
+    "image_id": "shorts_0005",
+    "path": "crops\\shorts_0005.jpg",
+    "clothing_type": "shorts",
+    "clothing_confidence": 0.8093,
+    "clothing_top_k": [
+      [
+        "shorts",
+        0.8093
+      ],
+      [
+        "skirt",
+        0.1477
+      ],
+      [
+        "trousers",
+        0.0098
+      ]
+    ],
+    "pattern": "camouflage",
+    "pattern_confidence": 0.8793,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#333635",
+        "share": 0.566
+      },
+      {
+        "name": "grey",
+        "hex": "#9e988f",
+        "share": 0.25
+      },
+      {
+        "name": "silver",
+        "hex": "#d2c6ba",
+        "share": 0.184
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:57"
+  },
+  {
+    "image_id": "shorts_0006",
+    "path": "crops\\shorts_0006.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.666,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.666
+      ],
+      [
+        "shorts",
+        0.1905
+      ],
+      [
+        "leggings",
+        0.0556
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.2783,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#47535b",
+        "share": 0.62
+      },
+      {
+        "name": "grey",
+        "hex": "#90877f",
+        "share": 0.206
+      },
+      {
+        "name": "silver",
+        "hex": "#c3b6ab",
+        "share": 0.091
+      },
+      {
+        "name": "black",
+        "hex": "#151413",
+        "share": 0.082
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:57"
+  },
+  {
+    "image_id": "shorts_0007",
+    "path": "crops\\shorts_0007.jpg",
+    "clothing_type": "shorts",
+    "clothing_confidence": 0.9084,
+    "clothing_top_k": [
+      [
+        "shorts",
+        0.9084
+      ],
+      [
+        "skirt",
+        0.0507
+      ],
+      [
+        "jeans",
+        0.0164
+      ]
+    ],
+    "pattern": "polka dot",
+    "pattern_confidence": 0.2453,
+    "primary_colour": "beige",
+    "colours": [
+      {
+        "name": "beige",
+        "hex": "#facdac",
+        "share": 0.378
+      },
+      {
+        "name": "black",
+        "hex": "#0c0a0a",
+        "share": 0.261
+      },
+      {
+        "name": "brown",
+        "hex": "#6b4334",
+        "share": 0.189
+      },
+      {
+        "name": "tan",
+        "hex": "#d19470",
+        "share": 0.173
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:58"
+  },
+  {
+    "image_id": "shorts_0008",
+    "path": "crops\\shorts_0008.jpg",
+    "clothing_type": "top",
+    "clothing_confidence": 0.2326,
+    "clothing_top_k": [
+      [
+        "top",
+        0.2326
+      ],
+      [
+        "blouse",
+        0.2178
+      ],
+      [
+        "shorts",
+        0.1717
+      ]
+    ],
+    "pattern": "polka dot",
+    "pattern_confidence": 0.2281,
+    "primary_colour": "beige",
+    "colours": [
+      {
+        "name": "beige",
+        "hex": "#d9b09f",
+        "share": 0.477
+      },
+      {
+        "name": "black",
+        "hex": "#2d140d",
+        "share": 0.266
+      },
+      {
+        "name": "brown",
+        "hex": "#5c3f2e",
+        "share": 0.185
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:58"
+  },
+  {
+    "image_id": "shorts_0009",
+    "path": "crops\\shorts_0009.jpg",
+    "clothing_type": "leggings",
+    "clothing_confidence": 0.7613,
+    "clothing_top_k": [
+      [
+        "leggings",
+        0.7613
+      ],
+      [
+        "trousers",
+        0.0951
+      ],
+      [
+        "jumpsuit",
+        0.0648
+      ]
+    ],
+    "pattern": "floral",
+    "pattern_confidence": 0.3763,
+    "primary_colour": "maroon",
+    "colours": [
+      {
+        "name": "maroon",
+        "hex": "#59241c",
+        "share": 0.332
+      },
+      {
+        "name": "brown",
+        "hex": "#a85645",
+        "share": 0.281
+      },
+      {
+        "name": "tan",
+        "hex": "#daa487",
+        "share": 0.28
+      },
+      {
+        "name": "grey",
+        "hex": "#717b7b",
+        "share": 0.108
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:58"
+  },
+  {
+    "image_id": "shorts_0010",
+    "path": "crops\\shorts_0010.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.3041,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.3041
+      ],
+      [
+        "leggings",
+        0.256
+      ],
+      [
+        "trousers",
+        0.1067
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2847,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#1f1e1f",
+        "share": 0.686
+      },
+      {
+        "name": "silver",
+        "hex": "#e0d6d5",
+        "share": 0.252
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:58"
+  },
+  {
+    "image_id": "shorts_0011",
+    "path": "crops\\shorts_0011.jpg",
+    "clothing_type": "jeans",
+    "clothing_confidence": 0.4694,
+    "clothing_top_k": [
+      [
+        "jeans",
+        0.4694
+      ],
+      [
+        "shorts",
+        0.4285
+      ],
+      [
+        "skirt",
+        0.0542
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.3971,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#c6cace",
+        "share": 0.652
+      },
+      {
+        "name": "charcoal",
+        "hex": "#314d5f",
+        "share": 0.298
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:58"
+  },
+  {
+    "image_id": "shorts_0012",
+    "path": "crops\\shorts_0012.jpg",
+    "clothing_type": "shorts",
+    "clothing_confidence": 0.7229,
+    "clothing_top_k": [
+      [
+        "shorts",
+        0.7229
+      ],
+      [
+        "jeans",
+        0.1676
+      ],
+      [
+        "skirt",
+        0.0255
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.3269,
+    "primary_colour": "grey",
+    "colours": [
+      {
+        "name": "grey",
+        "hex": "#83929c",
+        "share": 0.518
+      },
+      {
+        "name": "silver",
+        "hex": "#c4cdd3",
+        "share": 0.387
+      },
+      {
+        "name": "charcoal",
+        "hex": "#4f5d68",
+        "share": 0.095
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:58"
+  },
+  {
+    "image_id": "shorts_0013",
+    "path": "crops\\shorts_0013.jpg",
+    "clothing_type": "shorts",
+    "clothing_confidence": 0.7695,
+    "clothing_top_k": [
+      [
+        "shorts",
+        0.7695
+      ],
+      [
+        "jeans",
+        0.0994
+      ],
+      [
+        "skirt",
+        0.0704
+      ]
+    ],
+    "pattern": "striped",
+    "pattern_confidence": 0.2933,
+    "primary_colour": "light blue",
+    "colours": [
+      {
+        "name": "light blue",
+        "hex": "#9ebae4",
+        "share": 0.489
+      },
+      {
+        "name": "denim blue",
+        "hex": "#557aa9",
+        "share": 0.25
+      },
+      {
+        "name": "silver",
+        "hex": "#c3a8a5",
+        "share": 0.206
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:58"
+  },
+  {
+    "image_id": "shorts_0014",
+    "path": "crops\\shorts_0014.jpg",
+    "clothing_type": "trousers",
+    "clothing_confidence": 0.4092,
+    "clothing_top_k": [
+      [
+        "trousers",
+        0.4092
+      ],
+      [
+        "leggings",
+        0.226
+      ],
+      [
+        "tracksuit",
+        0.2173
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4904,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#dde0e8",
+        "share": 0.616
+      },
+      {
+        "name": "grey",
+        "hex": "#898d9c",
+        "share": 0.22
+      },
+      {
+        "name": "charcoal",
+        "hex": "#525462",
+        "share": 0.112
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:58"
+  },
+  {
+    "image_id": "shorts_0015",
+    "path": "crops\\shorts_0015.jpg",
+    "clothing_type": "shorts",
+    "clothing_confidence": 0.8219,
+    "clothing_top_k": [
+      [
+        "shorts",
+        0.8219
+      ],
+      [
+        "trousers",
+        0.0781
+      ],
+      [
+        "skirt",
+        0.057
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4501,
+    "primary_colour": "grey",
+    "colours": [
+      {
+        "name": "grey",
+        "hex": "#947a69",
+        "share": 0.737
+      },
+      {
+        "name": "beige",
+        "hex": "#e6d0c0",
+        "share": 0.233
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:59"
+  },
+  {
+    "image_id": "skirt_0001",
+    "path": "crops\\skirt_0001.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.8544,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.8544
+      ],
+      [
+        "skirt",
+        0.0678
+      ],
+      [
+        "lehenga",
+        0.0294
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.5713,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#1b1616",
+        "share": 0.527
+      },
+      {
+        "name": "cream",
+        "hex": "#e3dbcc",
+        "share": 0.311
+      },
+      {
+        "name": "sand",
+        "hex": "#c4ad94",
+        "share": 0.087
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:59"
+  },
+  {
+    "image_id": "skirt_0002",
+    "path": "crops\\skirt_0002.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.5386,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.5386
+      ],
+      [
+        "saree",
+        0.2279
+      ],
+      [
+        "lehenga",
+        0.1125
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.411,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#ccc8ca",
+        "share": 0.687
+      },
+      {
+        "name": "red",
+        "hex": "#d94643",
+        "share": 0.238
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:59"
+  },
+  {
+    "image_id": "skirt_0003",
+    "path": "crops\\skirt_0003.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.6029,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.6029
+      ],
+      [
+        "lehenga",
+        0.1597
+      ],
+      [
+        "saree",
+        0.126
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.2637,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#552e42",
+        "share": 0.451
+      },
+      {
+        "name": "black",
+        "hex": "#281622",
+        "share": 0.256
+      },
+      {
+        "name": "cream",
+        "hex": "#edded5",
+        "share": 0.173
+      },
+      {
+        "name": "grey",
+        "hex": "#b4928d",
+        "share": 0.12
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:00:59"
+  },
+  {
+    "image_id": "skirt_0004",
+    "path": "crops\\skirt_0004.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.8687,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.8687
+      ],
+      [
+        "lehenga",
+        0.0708
+      ],
+      [
+        "skirt",
+        0.0359
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.619,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#1d1117",
+        "share": 0.389
+      },
+      {
+        "name": "white",
+        "hex": "#f2eeea",
+        "share": 0.347
+      },
+      {
+        "name": "tan",
+        "hex": "#cd9a8c",
+        "share": 0.154
+      },
+      {
+        "name": "charcoal",
+        "hex": "#644953",
+        "share": 0.11
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:00"
+  },
+  {
+    "image_id": "skirt_0005",
+    "path": "crops\\skirt_0005.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.3719,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.3719
+      ],
+      [
+        "lehenga",
+        0.2528
+      ],
+      [
+        "dress",
+        0.117
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.312,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#111e1d",
+        "share": 0.379
+      },
+      {
+        "name": "grey",
+        "hex": "#7b7486",
+        "share": 0.332
+      },
+      {
+        "name": "charcoal",
+        "hex": "#44515a",
+        "share": 0.164
+      },
+      {
+        "name": "silver",
+        "hex": "#b9c0cb",
+        "share": 0.124
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:00"
+  },
+  {
+    "image_id": "skirt_0006",
+    "path": "crops\\skirt_0006.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.6595,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.6595
+      ],
+      [
+        "jumpsuit",
+        0.1018
+      ],
+      [
+        "lehenga",
+        0.0825
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.3248,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#423441",
+        "share": 0.318
+      },
+      {
+        "name": "light blue",
+        "hex": "#89a4ce",
+        "share": 0.275
+      },
+      {
+        "name": "silver",
+        "hex": "#c2c8e5",
+        "share": 0.247
+      },
+      {
+        "name": "denim blue",
+        "hex": "#7c7294",
+        "share": 0.16
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:00"
+  },
+  {
+    "image_id": "skirt_0007",
+    "path": "crops\\skirt_0007.jpg",
+    "clothing_type": "jumpsuit",
+    "clothing_confidence": 0.185,
+    "clothing_top_k": [
+      [
+        "jumpsuit",
+        0.185
+      ],
+      [
+        "leggings",
+        0.1579
+      ],
+      [
+        "blouse",
+        0.1348
+      ]
+    ],
+    "pattern": "striped",
+    "pattern_confidence": 0.723,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#1d1e24",
+        "share": 0.507
+      },
+      {
+        "name": "silver",
+        "hex": "#a2a4b0",
+        "share": 0.352
+      },
+      {
+        "name": "grey",
+        "hex": "#6a6c76",
+        "share": 0.14
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:00"
+  },
+  {
+    "image_id": "skirt_0008",
+    "path": "crops\\skirt_0008.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.8171,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.8171
+      ],
+      [
+        "lehenga",
+        0.0969
+      ],
+      [
+        "leggings",
+        0.0348
+      ]
+    ],
+    "pattern": "paisley",
+    "pattern_confidence": 0.7096,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#e5edf2",
+        "share": 0.372
+      },
+      {
+        "name": "silver",
+        "hex": "#becad2",
+        "share": 0.356
+      },
+      {
+        "name": "charcoal",
+        "hex": "#2d3136",
+        "share": 0.198
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:01"
+  },
+  {
+    "image_id": "skirt_0009",
+    "path": "crops\\skirt_0009.jpg",
+    "clothing_type": "lehenga",
+    "clothing_confidence": 0.3166,
+    "clothing_top_k": [
+      [
+        "lehenga",
+        0.3166
+      ],
+      [
+        "dress",
+        0.28
+      ],
+      [
+        "saree",
+        0.1494
+      ]
+    ],
+    "pattern": "floral",
+    "pattern_confidence": 0.3636,
+    "primary_colour": "red",
+    "colours": [
+      {
+        "name": "red",
+        "hex": "#d3151a",
+        "share": 0.417
+      },
+      {
+        "name": "navy",
+        "hex": "#2d3660",
+        "share": 0.257
+      },
+      {
+        "name": "tan",
+        "hex": "#af6a50",
+        "share": 0.183
+      },
+      {
+        "name": "maroon",
+        "hex": "#4f0a0a",
+        "share": 0.143
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:01"
+  },
+  {
+    "image_id": "skirt_0010",
+    "path": "crops\\skirt_0010.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.8276,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.8276
+      ],
+      [
+        "trousers",
+        0.0371
+      ],
+      [
+        "coat",
+        0.0357
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2831,
+    "primary_colour": "sand",
+    "colours": [
+      {
+        "name": "sand",
+        "hex": "#d9ab90",
+        "share": 0.592
+      },
+      {
+        "name": "tan",
+        "hex": "#a66d54",
+        "share": 0.201
+      },
+      {
+        "name": "brown",
+        "hex": "#814c39",
+        "share": 0.131
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:01"
+  },
+  {
+    "image_id": "skirt_0011",
+    "path": "crops\\skirt_0011.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.8257,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.8257
+      ],
+      [
+        "shorts",
+        0.1319
+      ],
+      [
+        "dress",
+        0.009
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.174,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#283d54",
+        "share": 0.629
+      },
+      {
+        "name": "grey",
+        "hex": "#6f91a6",
+        "share": 0.348
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:01"
+  },
+  {
+    "image_id": "skirt_0012",
+    "path": "crops\\skirt_0012.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.7094,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.7094
+      ],
+      [
+        "dress",
+        0.2234
+      ],
+      [
+        "shorts",
+        0.0179
+      ]
+    ],
+    "pattern": "striped",
+    "pattern_confidence": 0.8711,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#302727",
+        "share": 0.405
+      },
+      {
+        "name": "silver",
+        "hex": "#d3cfce",
+        "share": 0.282
+      },
+      {
+        "name": "red",
+        "hex": "#be4338",
+        "share": 0.19
+      },
+      {
+        "name": "grey",
+        "hex": "#9a7877",
+        "share": 0.123
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:01"
+  },
+  {
+    "image_id": "skirt_0013",
+    "path": "crops\\skirt_0013.jpg",
+    "clothing_type": "dress",
+    "clothing_confidence": 0.4143,
+    "clothing_top_k": [
+      [
+        "dress",
+        0.4143
+      ],
+      [
+        "skirt",
+        0.3493
+      ],
+      [
+        "lehenga",
+        0.0579
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.3194,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#e0dbe1",
+        "share": 0.339
+      },
+      {
+        "name": "denim blue",
+        "hex": "#494873",
+        "share": 0.321
+      },
+      {
+        "name": "black",
+        "hex": "#05050b",
+        "share": 0.204
+      },
+      {
+        "name": "grey",
+        "hex": "#9b8d9e",
+        "share": 0.136
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:01"
+  },
+  {
+    "image_id": "skirt_0014",
+    "path": "crops\\skirt_0014.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.9563,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.9563
+      ],
+      [
+        "dress",
+        0.0208
+      ],
+      [
+        "coat",
+        0.0109
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4062,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#584c4f",
+        "share": 0.423
+      },
+      {
+        "name": "grey",
+        "hex": "#a19497",
+        "share": 0.233
+      },
+      {
+        "name": "black",
+        "hex": "#191112",
+        "share": 0.181
+      },
+      {
+        "name": "red",
+        "hex": "#d74135",
+        "share": 0.162
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:01"
+  },
+  {
+    "image_id": "skirt_0015",
+    "path": "crops\\skirt_0015.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.9103,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.9103
+      ],
+      [
+        "dress",
+        0.0175
+      ],
+      [
+        "sweater",
+        0.0129
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.2225,
+    "primary_colour": "tan",
+    "colours": [
+      {
+        "name": "tan",
+        "hex": "#d1927a",
+        "share": 0.395
+      },
+      {
+        "name": "brown",
+        "hex": "#7a4d49",
+        "share": 0.337
+      },
+      {
+        "name": "beige",
+        "hex": "#f7c0a6",
+        "share": 0.168
+      },
+      {
+        "name": "black",
+        "hex": "#2c1922",
+        "share": 0.1
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:01"
+  },
+  {
+    "image_id": "sweater_0001",
+    "path": "crops\\sweater_0001.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.578,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.578
+      ],
+      [
+        "blouse",
+        0.2649
+      ],
+      [
+        "shirt",
+        0.0593
+      ]
+    ],
+    "pattern": "polka dot",
+    "pattern_confidence": 0.4716,
+    "primary_colour": "cream",
+    "colours": [
+      {
+        "name": "cream",
+        "hex": "#e0d7cb",
+        "share": 0.387
+      },
+      {
+        "name": "brown",
+        "hex": "#925c2d",
+        "share": 0.284
+      },
+      {
+        "name": "pink",
+        "hex": "#cf8e90",
+        "share": 0.226
+      },
+      {
+        "name": "black",
+        "hex": "#392416",
+        "share": 0.102
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:02"
+  },
+  {
+    "image_id": "sweater_0002",
+    "path": "crops\\sweater_0002.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.8477,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.8477
+      ],
+      [
+        "blouse",
+        0.0356
+      ],
+      [
+        "top",
+        0.0208
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4612,
+    "primary_colour": "beige",
+    "colours": [
+      {
+        "name": "beige",
+        "hex": "#d5c7b4",
+        "share": 0.561
+      },
+      {
+        "name": "tan",
+        "hex": "#be9674",
+        "share": 0.164
+      },
+      {
+        "name": "white",
+        "hex": "#fefefe",
+        "share": 0.153
+      },
+      {
+        "name": "brown",
+        "hex": "#7a4f35",
+        "share": 0.122
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:02"
+  },
+  {
+    "image_id": "sweater_0003",
+    "path": "crops\\sweater_0003.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.3672,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.3672
+      ],
+      [
+        "blouse",
+        0.3386
+      ],
+      [
+        "top",
+        0.0767
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4325,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#543833",
+        "share": 0.346
+      },
+      {
+        "name": "brown",
+        "hex": "#8d6049",
+        "share": 0.248
+      },
+      {
+        "name": "silver",
+        "hex": "#d3c6c9",
+        "share": 0.206
+      },
+      {
+        "name": "tan",
+        "hex": "#c19272",
+        "share": 0.2
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:02"
+  },
+  {
+    "image_id": "sweater_0004",
+    "path": "crops\\sweater_0004.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.4509,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.4509
+      ],
+      [
+        "blouse",
+        0.2486
+      ],
+      [
+        "top",
+        0.1142
+      ]
+    ],
+    "pattern": "polka dot",
+    "pattern_confidence": 0.351,
+    "primary_colour": "cream",
+    "colours": [
+      {
+        "name": "cream",
+        "hex": "#faf1e3",
+        "share": 0.958
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:02"
+  },
+  {
+    "image_id": "sweater_0005",
+    "path": "crops\\sweater_0005.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.3571,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.3571
+      ],
+      [
+        "sweater",
+        0.3349
+      ],
+      [
+        "top",
+        0.0989
+      ]
+    ],
+    "pattern": "striped",
+    "pattern_confidence": 0.4409,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#d1d0d5",
+        "share": 0.264
+      },
+      {
+        "name": "black",
+        "hex": "#26232b",
+        "share": 0.246
+      },
+      {
+        "name": "grey",
+        "hex": "#938a8a",
+        "share": 0.245
+      },
+      {
+        "name": "charcoal",
+        "hex": "#64524d",
+        "share": 0.244
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:02"
+  },
+  {
+    "image_id": "sweater_0006",
+    "path": "crops\\sweater_0006.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.6124,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.6124
+      ],
+      [
+        "dress",
+        0.1303
+      ],
+      [
+        "blouse",
+        0.0618
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2634,
+    "primary_colour": "beige",
+    "colours": [
+      {
+        "name": "beige",
+        "hex": "#e9cbb6",
+        "share": 0.496
+      },
+      {
+        "name": "tan",
+        "hex": "#ad8a73",
+        "share": 0.256
+      },
+      {
+        "name": "brown",
+        "hex": "#8b654c",
+        "share": 0.248
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:02"
+  },
+  {
+    "image_id": "sweater_0007",
+    "path": "crops\\sweater_0007.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.8558,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.8558
+      ],
+      [
+        "hoodie",
+        0.0903
+      ],
+      [
+        "coat",
+        0.0307
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3545,
+    "primary_colour": "teal",
+    "colours": [
+      {
+        "name": "teal",
+        "hex": "#09b3bb",
+        "share": 0.799
+      },
+      {
+        "name": "charcoal",
+        "hex": "#034348",
+        "share": 0.201
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:02"
+  },
+  {
+    "image_id": "sweater_0008",
+    "path": "crops\\sweater_0008.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.2824,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.2824
+      ],
+      [
+        "jacket",
+        0.2319
+      ],
+      [
+        "blazer",
+        0.1534
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.4255,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#cfc4c8",
+        "share": 0.721
+      },
+      {
+        "name": "charcoal",
+        "hex": "#2d2e37",
+        "share": 0.279
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:02"
+  },
+  {
+    "image_id": "sweater_0009",
+    "path": "crops\\sweater_0009.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.6863,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.6863
+      ],
+      [
+        "jacket",
+        0.0728
+      ],
+      [
+        "blouse",
+        0.0526
+      ]
+    ],
+    "pattern": "floral",
+    "pattern_confidence": 0.5917,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#5d4543",
+        "share": 0.617
+      },
+      {
+        "name": "grey",
+        "hex": "#8a746b",
+        "share": 0.233
+      },
+      {
+        "name": "silver",
+        "hex": "#c7a698",
+        "share": 0.15
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:03"
+  },
+  {
+    "image_id": "sweater_0010",
+    "path": "crops\\sweater_0010.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.4984,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.4984
+      ],
+      [
+        "blouse",
+        0.1916
+      ],
+      [
+        "top",
+        0.0888
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.6968,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#c0bfbb",
+        "share": 0.559
+      },
+      {
+        "name": "grey",
+        "hex": "#887f75",
+        "share": 0.252
+      },
+      {
+        "name": "charcoal",
+        "hex": "#5f5449",
+        "share": 0.189
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:03"
+  },
+  {
+    "image_id": "sweater_0011",
+    "path": "crops\\sweater_0011.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.2829,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.2829
+      ],
+      [
+        "sweater",
+        0.2191
+      ],
+      [
+        "top",
+        0.102
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.8123,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#08080a",
+        "share": 0.631
+      },
+      {
+        "name": "charcoal",
+        "hex": "#4d4a4c",
+        "share": 0.217
+      },
+      {
+        "name": "grey",
+        "hex": "#757174",
+        "share": 0.112
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:03"
+  },
+  {
+    "image_id": "sweater_0012",
+    "path": "crops\\sweater_0012.jpg",
+    "clothing_type": "coat",
+    "clothing_confidence": 0.636,
+    "clothing_top_k": [
+      [
+        "coat",
+        0.636
+      ],
+      [
+        "jacket",
+        0.2415
+      ],
+      [
+        "tracksuit",
+        0.0575
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3259,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#0c0d1b",
+        "share": 0.476
+      },
+      {
+        "name": "navy",
+        "hex": "#173f83",
+        "share": 0.332
+      },
+      {
+        "name": "maroon",
+        "hex": "#642f40",
+        "share": 0.141
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:03"
+  },
+  {
+    "image_id": "sweater_0013",
+    "path": "crops\\sweater_0013.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.3121,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.3121
+      ],
+      [
+        "blouse",
+        0.1117
+      ],
+      [
+        "top",
+        0.0874
+      ]
+    ],
+    "pattern": "polka dot",
+    "pattern_confidence": 0.1892,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#bcc2cc",
+        "share": 0.755
+      },
+      {
+        "name": "charcoal",
+        "hex": "#3d3940",
+        "share": 0.176
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:03"
+  },
+  {
+    "image_id": "sweater_0014",
+    "path": "crops\\sweater_0014.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.2218,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.2218
+      ],
+      [
+        "tracksuit",
+        0.1128
+      ],
+      [
+        "blouse",
+        0.1077
+      ]
+    ],
+    "pattern": "camouflage",
+    "pattern_confidence": 0.1776,
+    "primary_colour": "grey",
+    "colours": [
+      {
+        "name": "grey",
+        "hex": "#988881",
+        "share": 0.549
+      },
+      {
+        "name": "silver",
+        "hex": "#e1d6d0",
+        "share": 0.451
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:04"
+  },
+  {
+    "image_id": "sweater_0015",
+    "path": "crops\\sweater_0015.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.2367,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.2367
+      ],
+      [
+        "sweater",
+        0.2121
+      ],
+      [
+        "leggings",
+        0.0932
+      ]
+    ],
+    "pattern": "camouflage",
+    "pattern_confidence": 0.2872,
+    "primary_colour": "cream",
+    "colours": [
+      {
+        "name": "cream",
+        "hex": "#f2ead0",
+        "share": 0.354
+      },
+      {
+        "name": "sand",
+        "hex": "#d2b67d",
+        "share": 0.27
+      },
+      {
+        "name": "brown",
+        "hex": "#6a5021",
+        "share": 0.193
+      },
+      {
+        "name": "tan",
+        "hex": "#9e7f46",
+        "share": 0.184
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:04"
+  },
+  {
+    "image_id": "top_0001",
+    "path": "crops\\top_0001.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.2506,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.2506
+      ],
+      [
+        "tracksuit",
+        0.2058
+      ],
+      [
+        "shirt",
+        0.2001
+      ]
+    ],
+    "pattern": "tie-dye",
+    "pattern_confidence": 0.2967,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#dee1e0",
+        "share": 0.309
+      },
+      {
+        "name": "grey",
+        "hex": "#9aa18b",
+        "share": 0.303
+      },
+      {
+        "name": "brown",
+        "hex": "#725f3b",
+        "share": 0.267
+      },
+      {
+        "name": "black",
+        "hex": "#0a0a0b",
+        "share": 0.122
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:04"
+  },
+  {
+    "image_id": "top_0002",
+    "path": "crops\\top_0002.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.7304,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.7304
+      ],
+      [
+        "shirt",
+        0.1689
+      ],
+      [
+        "top",
+        0.0405
+      ]
+    ],
+    "pattern": "tie-dye",
+    "pattern_confidence": 0.3925,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#fcfcfb",
+        "share": 0.482
+      },
+      {
+        "name": "grey",
+        "hex": "#a49082",
+        "share": 0.332
+      },
+      {
+        "name": "beige",
+        "hex": "#e2baa0",
+        "share": 0.186
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:05"
+  },
+  {
+    "image_id": "top_0003",
+    "path": "crops\\top_0003.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.5869,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.5869
+      ],
+      [
+        "shirt",
+        0.1774
+      ],
+      [
+        "hoodie",
+        0.1077
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.359,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#95b4b7",
+        "share": 0.323
+      },
+      {
+        "name": "charcoal",
+        "hex": "#35364a",
+        "share": 0.292
+      },
+      {
+        "name": "grey",
+        "hex": "#667680",
+        "share": 0.271
+      },
+      {
+        "name": "black",
+        "hex": "#020104",
+        "share": 0.114
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:05"
+  },
+  {
+    "image_id": "top_0004",
+    "path": "crops\\top_0004.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.2876,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.2876
+      ],
+      [
+        "top",
+        0.1835
+      ],
+      [
+        "jumpsuit",
+        0.1025
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.178,
+    "primary_colour": "charcoal",
+    "colours": [
+      {
+        "name": "charcoal",
+        "hex": "#4a4042",
+        "share": 0.343
+      },
+      {
+        "name": "black",
+        "hex": "#261818",
+        "share": 0.343
+      },
+      {
+        "name": "tan",
+        "hex": "#b0836f",
+        "share": 0.276
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:05"
+  },
+  {
+    "image_id": "top_0005",
+    "path": "crops\\top_0005.jpg",
+    "clothing_type": "sweater",
+    "clothing_confidence": 0.5649,
+    "clothing_top_k": [
+      [
+        "sweater",
+        0.5649
+      ],
+      [
+        "top",
+        0.1316
+      ],
+      [
+        "shirt",
+        0.0641
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.4299,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#dddddf",
+        "share": 0.657
+      },
+      {
+        "name": "silver",
+        "hex": "#c9c8c9",
+        "share": 0.238
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:05"
+  },
+  {
+    "image_id": "top_0006",
+    "path": "crops\\top_0006.jpg",
+    "clothing_type": "saree",
+    "clothing_confidence": 0.3134,
+    "clothing_top_k": [
+      [
+        "saree",
+        0.3134
+      ],
+      [
+        "lehenga",
+        0.2933
+      ],
+      [
+        "blouse",
+        0.2264
+      ]
+    ],
+    "pattern": "embroidered",
+    "pattern_confidence": 0.1825,
+    "primary_colour": "tan",
+    "colours": [
+      {
+        "name": "tan",
+        "hex": "#978062",
+        "share": 0.428
+      },
+      {
+        "name": "black",
+        "hex": "#1b1511",
+        "share": 0.327
+      },
+      {
+        "name": "brown",
+        "hex": "#76634a",
+        "share": 0.245
+      }
+    ],
+    "needs_review": true,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:05"
+  },
+  {
+    "image_id": "top_0007",
+    "path": "crops\\top_0007.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.4037,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.4037
+      ],
+      [
+        "saree",
+        0.238
+      ],
+      [
+        "top",
+        0.0948
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3926,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#3a2716",
+        "share": 0.844
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:05"
+  },
+  {
+    "image_id": "top_0008",
+    "path": "crops\\top_0008.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.7101,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.7101
+      ],
+      [
+        "shirt",
+        0.1503
+      ],
+      [
+        "top",
+        0.0917
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.4613,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#2b2224",
+        "share": 0.361
+      },
+      {
+        "name": "brown",
+        "hex": "#80413c",
+        "share": 0.244
+      },
+      {
+        "name": "tan",
+        "hex": "#a88274",
+        "share": 0.227
+      },
+      {
+        "name": "red",
+        "hex": "#d91628",
+        "share": 0.169
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:05"
+  },
+  {
+    "image_id": "top_0009",
+    "path": "crops\\top_0009.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.5125,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.5125
+      ],
+      [
+        "shirt",
+        0.417
+      ],
+      [
+        "top",
+        0.0156
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.3859,
+    "primary_colour": "red",
+    "colours": [
+      {
+        "name": "red",
+        "hex": "#d03c3a",
+        "share": 0.389
+      },
+      {
+        "name": "maroon",
+        "hex": "#672b2a",
+        "share": 0.275
+      },
+      {
+        "name": "tan",
+        "hex": "#da7d6a",
+        "share": 0.236
+      },
+      {
+        "name": "grey",
+        "hex": "#7c7475",
+        "share": 0.099
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:05"
+  },
+  {
+    "image_id": "top_0010",
+    "path": "crops\\top_0010.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.5064,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.5064
+      ],
+      [
+        "shirt",
+        0.1195
+      ],
+      [
+        "shorts",
+        0.0967
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.4318,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#0f0d15",
+        "share": 0.463
+      },
+      {
+        "name": "charcoal",
+        "hex": "#564d53",
+        "share": 0.219
+      },
+      {
+        "name": "silver",
+        "hex": "#bebdc4",
+        "share": 0.165
+      },
+      {
+        "name": "grey",
+        "hex": "#8a8589",
+        "share": 0.154
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:06"
+  },
+  {
+    "image_id": "top_0011",
+    "path": "crops\\top_0011.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.5117,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.5117
+      ],
+      [
+        "shirt",
+        0.2034
+      ],
+      [
+        "top",
+        0.1254
+      ]
+    ],
+    "pattern": "graphic print",
+    "pattern_confidence": 0.5257,
+    "primary_colour": "white",
+    "colours": [
+      {
+        "name": "white",
+        "hex": "#f6f5f5",
+        "share": 0.559
+      },
+      {
+        "name": "tan",
+        "hex": "#e49275",
+        "share": 0.21
+      },
+      {
+        "name": "silver",
+        "hex": "#b9b3b2",
+        "share": 0.138
+      },
+      {
+        "name": "grey",
+        "hex": "#786563",
+        "share": 0.092
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:06"
+  },
+  {
+    "image_id": "top_0012",
+    "path": "crops\\top_0012.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.5254,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.5254
+      ],
+      [
+        "top",
+        0.0687
+      ],
+      [
+        "leggings",
+        0.0555
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.2093,
+    "primary_colour": "black",
+    "colours": [
+      {
+        "name": "black",
+        "hex": "#211818",
+        "share": 0.42
+      },
+      {
+        "name": "brown",
+        "hex": "#695a46",
+        "share": 0.275
+      },
+      {
+        "name": "mustard",
+        "hex": "#a8a036",
+        "share": 0.153
+      },
+      {
+        "name": "silver",
+        "hex": "#a2a190",
+        "share": 0.152
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:06"
+  },
+  {
+    "image_id": "top_0013",
+    "path": "crops\\top_0013.jpg",
+    "clothing_type": "blouse",
+    "clothing_confidence": 0.7635,
+    "clothing_top_k": [
+      [
+        "blouse",
+        0.7635
+      ],
+      [
+        "top",
+        0.0611
+      ],
+      [
+        "saree",
+        0.0437
+      ]
+    ],
+    "pattern": "solid",
+    "pattern_confidence": 0.3496,
+    "primary_colour": "sand",
+    "colours": [
+      {
+        "name": "sand",
+        "hex": "#eeca9b",
+        "share": 0.48
+      },
+      {
+        "name": "black",
+        "hex": "#34180a",
+        "share": 0.223
+      },
+      {
+        "name": "tan",
+        "hex": "#d4a576",
+        "share": 0.152
+      },
+      {
+        "name": "brown",
+        "hex": "#764326",
+        "share": 0.144
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:06"
+  },
+  {
+    "image_id": "top_0014",
+    "path": "crops\\top_0014.jpg",
+    "clothing_type": "t-shirt",
+    "clothing_confidence": 0.4621,
+    "clothing_top_k": [
+      [
+        "t-shirt",
+        0.4621
+      ],
+      [
+        "shirt",
+        0.3379
+      ],
+      [
+        "top",
+        0.086
+      ]
+    ],
+    "pattern": "geometric",
+    "pattern_confidence": 0.4332,
+    "primary_colour": "silver",
+    "colours": [
+      {
+        "name": "silver",
+        "hex": "#af9fa0",
+        "share": 0.664
+      },
+      {
+        "name": "brown",
+        "hex": "#492721",
+        "share": 0.336
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:06"
+  },
+  {
+    "image_id": "top_0015",
+    "path": "crops\\top_0015.jpg",
+    "clothing_type": "skirt",
+    "clothing_confidence": 0.5371,
+    "clothing_top_k": [
+      [
+        "skirt",
+        0.5371
+      ],
+      [
+        "top",
+        0.1382
+      ],
+      [
+        "leggings",
+        0.0771
+      ]
+    ],
+    "pattern": "tie-dye",
+    "pattern_confidence": 0.7523,
+    "primary_colour": "denim blue",
+    "colours": [
+      {
+        "name": "denim blue",
+        "hex": "#3d6d88",
+        "share": 0.278
+      },
+      {
+        "name": "charcoal",
+        "hex": "#375063",
+        "share": 0.248
+      },
+      {
+        "name": "grey",
+        "hex": "#6b8293",
+        "share": 0.244
+      },
+      {
+        "name": "silver",
+        "hex": "#c5c7cd",
+        "share": 0.231
+      }
+    ],
+    "needs_review": false,
+    "status": "ok",
+    "error": "",
+    "processed_at": "2026-11-26T16:01:06"
+  }
+]
