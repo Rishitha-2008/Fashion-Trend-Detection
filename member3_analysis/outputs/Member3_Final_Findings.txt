@@ -1,0 +1,64 @@
+
+FASHION TREND DETECTION PROJECT
+MEMBER 3 - TREND DETECTION AND SALES ANALYSIS
+
+1. CLOTHING CATEGORY FINDINGS
+
+H&M sales:
+- Trousers: 20.06%
+- Dress: 15.41%
+- Sweater: 13.24%
+- T-shirt: 10.48%
+- Top: 7.53%
+
+Image analysis:
+- Blouse: 12.78%
+- Skirt: 12.03%
+- Dress: 11.28%
+- Sweater: 9.77%
+- Coat: 9.02%
+
+2. COLOUR FINDINGS
+
+H&M sales:
+- Black: 55.36%
+- White: 16.89%
+- Beige: 4.62%
+- Light blue: 4.58%
+- Grey: 4.21%
+
+Image analysis:
+- Black: 32.80%
+- Dark grey: 20.80%
+- Silver: 14.40%
+- White: 13.60%
+- Grey: 8.00%
+
+3. PATTERN FINDINGS
+
+H&M sales:
+- Solid: 87.30%
+- Stripe: 7.10%
+- Check: 2.89%
+- Embroidery: 1.52%
+- Dot: 1.19%
+
+Image analysis:
+- Solid: 62.92%
+- Embroidery: 16.85%
+- Check: 7.87%
+- Dot: 6.74%
+- Stripe: 5.62%
+
+4. CONCLUSION
+
+Black and solid-pattern clothing are prominent in both datasets.
+Clothing category distributions differ between the image sample
+and H&M sales data.
+
+The image dataset contains 150 samples, so its findings should
+be treated as exploratory rather than representative of the
+entire fashion market.
+
+The comparison percentages are calculated among matched labels
+in the two datasets.
