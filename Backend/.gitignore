@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pyc
+fashion.db
+fashion_backup.db
